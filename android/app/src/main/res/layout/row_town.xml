@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/r_town_txv_city"
+        android:layout_width="370dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="4dp"
+        android:fontFamily="sans-serif-thin"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Paris" />
+
+    <TextView
+        android:id="@+id/r_town_txv_population"
+        android:layout_width="167dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="sans-serif-medium"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        app:layout_constraintEnd_toStartOf="@+id/r_town_txv_country"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/r_town_txv_city"
+        tools:text="2 148 000" />
+
+    <TextView
+        android:id="@+id/r_town_txv_country"
+        android:layout_width="176dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="sans-serif-medium"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.834"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/r_town_txv_city"
+        tools:text="France" />
+</androidx.constraintlayout.widget.ConstraintLayout>

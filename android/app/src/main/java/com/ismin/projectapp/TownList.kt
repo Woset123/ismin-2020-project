@@ -1,41 +1,29 @@
 package com.ismin.projectapp
 
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-import android.view.Menu
-import android.view.MenuItem
-import android.view.View
-import android.widget.Toast
+import java.io.Serializable
 
-class TownList : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_town_list)
+class TownList : Serializable {
+
+    private val storage = HashMap<String, Town>()
+
+    fun addTown(town: Town) {
+        this.storage[town.city] = town
     }
 
-    fun goToCreation(view: View) {
-
-        Toast.makeText(this, "coucou", Toast.LENGTH_SHORT).show()
-
+    fun getTown(city: String): Town? {
+        return this.storage[city]
     }
 
-    /**Toolbar Settings**/
-    /*Put this code into the right activity (to be created)*/
-    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-        val inflater = menuInflater
-        inflater.inflate(R.menu.menu_town_view, menu)
-        return super.onCreateOptionsMenu(menu)
+    fun getAllTowns(): List<Town> {
+        return ArrayList(this.storage.values).sortedBy { town -> town.city }
     }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        return when (item.itemId) {
-            R.id.action_delete -> {
-                /**TO DO**/
-                Toast.makeText(this, "Delete resource", Toast.LENGTH_SHORT).show()
-                true
-            }
-            else -> super.onOptionsItemSelected(item)
-        }
+    fun getTownsofCountry(country: String): List<Town> {
+        val filteredStorage = this.storage.filter { it.value.country == country }
+        return ArrayList(filteredStorage.values).sortedBy { town -> town.city }
     }
 
+    fun getTotalNumberOfTowns(): Int {
+        return this.storage.size
+    }
 }

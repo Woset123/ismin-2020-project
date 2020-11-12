@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun ShowTownList(view: View) {
-        val intent = Intent(this, TownList::class.java)
+        val intent = Intent(this, TownListActivity::class.java)
         startActivityForResult(intent, this.TownListActivityRequestCode)
     }
 

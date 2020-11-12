@@ -1,5 +1,6 @@
 package com.ismin.projectapp
 
+import android.content.Context
 import android.os.Bundle
 import android.os.CountDownTimer
 import androidx.fragment.app.Fragment
@@ -11,7 +12,7 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.cardview.widget.CardView
 
-class CreateTown : Fragment() {
+class CreateTownFragment : Fragment() {
 
     private var activity: TownCreator? = null
     private lateinit var edtCity: EditText
@@ -36,13 +37,28 @@ class CreateTown : Fragment() {
 
         rootView.setOnClickListener { activity?.closeCreateFragment() }
         rootView.findViewById<Button>(R.id.f_create_town_btn_save).setOnClickListener {
-            /**To Do**/
-            //saveTown()
+            saveTown()
         }
 
         return rootView
     }
 
+    fun saveTown() {
+        activity?.onTownCreated(
+                Town(
+                        edtCity.text.toString(),
+                        edtPopulation.text.toString().toDouble(),
+                        edtCountry.text.toString()
+                )
+        )
+    }
+
+    override fun onAttach(context: Context) {
+        if (context is TownCreator) {
+            activity = context
+        }
+        super.onAttach(context)
+    }
 }
 
 
