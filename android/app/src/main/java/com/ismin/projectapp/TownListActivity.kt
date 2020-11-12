@@ -15,11 +15,18 @@ class TownListActivity : AppCompatActivity(), TownCreator {
 
     private val townlist = TownList()
 
+    private val city_test = Town(
+            city = "Paris",
+            population = 2148000,
+            country = "France"
+    )
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_town_list)
 
+        this.townlist.addTown(city_test)
 
         val townListFragment = TownListFragment.newInstance(townlist.getAllTowns())
 
@@ -76,6 +83,10 @@ class TownListActivity : AppCompatActivity(), TownCreator {
                 .commit()
 
         a_main_btn_creation.visibility = View.VISIBLE
+    }
+
+    fun favourite(){
+        /**To Do**/
     }
 
 }

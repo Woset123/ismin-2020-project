@@ -2,14 +2,12 @@ package com.ismin.projectapp
 
 import android.content.Context
 import android.os.Bundle
-import android.os.CountDownTimer
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.EditText
-import android.widget.Toast
 import androidx.cardview.widget.CardView
 
 class CreateTownFragment : Fragment() {
@@ -47,7 +45,7 @@ class CreateTownFragment : Fragment() {
         activity?.onTownCreated(
                 Town(
                         edtCity.text.toString(),
-                        edtPopulation.text.toString().toDouble(),
+                        edtPopulation.text.toString().toInt(),
                         edtCountry.text.toString()
                 )
         )
