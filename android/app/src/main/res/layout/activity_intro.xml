@@ -55,7 +55,7 @@
         app:srcCompat="@drawable/ic_skyline" />
 
     <ImageView
-        android:id="@+id/imageView11"
+        android:id="@+id/rot"
         android:layout_width="169dp"
         android:layout_height="189dp"
         app:layout_constraintBottom_toTopOf="@+id/imageView10"
