@@ -11,10 +11,13 @@ import android.widget.Toast
 class MainActivity : AppCompatActivity() {
 
     private val TownListActivityRequestCode = 1;
+    val SERVER_BASE_URL = "https://bookshelf-gme.cleverapps.io/"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+
     }
 
     fun ShowTownList(view: View) {

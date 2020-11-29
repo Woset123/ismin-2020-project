@@ -7,7 +7,9 @@ import android.view.MenuItem
 import android.view.View
 import android.widget.Toast
 import androidx.fragment.app.FragmentTransaction
+import com.ismin.projectapp.retrofit.IRequests
 import kotlinx.android.synthetic.main.activity_town_list.*
+import retrofit2.Retrofit
 
 class TownListActivity : AppCompatActivity(), TownCreator {
 
@@ -26,6 +28,17 @@ class TownListActivity : AppCompatActivity(), TownCreator {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_town_list)
 
+        //Call
+        var retrofit = Retrofit.Builder()
+                .baseUrl("https://api.github.com/")
+                .build()
+
+        var service = retrofit.create(IRequests::class.java)
+        var repos = service.listTowns("paris") as Town
+
+
+        this.townlist.addTown(repos)
+
         this.townlist.addTown(city_test)
 
         val townListFragment = TownListFragment.newInstance(townlist.getAllTowns())
@@ -34,6 +47,9 @@ class TownListActivity : AppCompatActivity(), TownCreator {
                 .add(R.id.a_main_lyt_container, townListFragment)
                 .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
                 .commit()
+
+
+
     }
 
     fun goToCreation(view: View) {
