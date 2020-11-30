@@ -1,8 +1,11 @@
-package com.ismin.projectapp
+package com.ismin.projectapp.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.ismin.projectapp.R
+import com.ismin.projectapp.Town
+import com.ismin.projectapp.TownViewHolder
 
 class TownAdapter (private val towns: ArrayList<Town>) : RecyclerView.Adapter<TownViewHolder>() {
 

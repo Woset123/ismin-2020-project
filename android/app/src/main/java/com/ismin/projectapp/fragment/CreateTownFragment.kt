@@ -1,4 +1,4 @@
-package com.ismin.projectapp
+package com.ismin.projectapp.fragment
 
 import android.content.Context
 import android.os.Bundle
@@ -9,6 +9,8 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.EditText
 import androidx.cardview.widget.CardView
+import com.ismin.projectapp.R
+import com.ismin.projectapp.Town
 
 class CreateTownFragment : Fragment() {
 
@@ -43,11 +45,11 @@ class CreateTownFragment : Fragment() {
 
     fun saveTown() {
         activity?.onTownCreated(
-                Town(
-                        edtCity.text.toString(),
-                        edtPopulation.text.toString().toInt(),
-                        edtCountry.text.toString()
-                )
+            Town(
+                edtCity.text.toString(),
+                edtPopulation.text.toString().toInt(),
+                edtCountry.text.toString()
+            )
         )
     }
 

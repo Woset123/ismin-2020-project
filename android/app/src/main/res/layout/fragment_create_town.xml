@@ -5,7 +5,7 @@
     android:id="@+id/create_town_root_lyt"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".CreateTown">
+    tools:context="com.ismin.projectapp.fragment.CreateTownFragment">
 
     <View
         android:id="@+id/f_create_town_black_view"

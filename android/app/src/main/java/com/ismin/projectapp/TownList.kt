@@ -14,8 +14,8 @@ class TownList : Serializable {
         return this.storage[city]
     }
 
-    fun getAllTowns(): List<Town> {
-        return ArrayList(this.storage.values).sortedBy { town -> town.city }
+    fun getAllTowns(): ArrayList<Town> {
+        return ArrayList(this.storage.values)
     }
 
     fun getTownsofCountry(country: String): List<Town> {
