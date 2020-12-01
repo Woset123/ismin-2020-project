@@ -1,8 +1,10 @@
 import { Injectable } from '@nestjs/common';
 import { Town } from './Town';
-
+//import DataSample from './csvjson.json';
 @Injectable()
 export class AppService {
+
+
   private readonly storage: Map<string, Town> = new Map();
 
   addTown(town: Town): void {
