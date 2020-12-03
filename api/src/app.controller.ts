@@ -15,9 +15,9 @@ export class AppController {
   constructor(private readonly appService: AppService) {}
 
   @Get()
-  getTowns(@Query('country') country: string): Town[] {
-    if (country) {
-      return this.appService.getTownsOf(country);
+  getTowns(@Query('Country') Country: string): Town[] {
+    if (Country) {
+      return this.appService.getTownsOf(Country);
     }
     return this.appService.getAllTowns();
   }
@@ -39,4 +39,3 @@ export class AppController {
     this.appService.deleteTown(City);
   }
 }
-
