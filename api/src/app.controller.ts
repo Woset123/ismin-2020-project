@@ -21,6 +21,13 @@ export class AppController {
     }
     return this.appService.getAllTowns();
   }
+  @Get()
+  getfavTowns(@Query('Country') Country: string): Town[] {
+    if (Country) {
+      return this.appService.getfavTownsOf(Country);
+    }
+    return this.appService.getAllfavTowns();
+  }
 
   @Post()
   createTown(@Body() newTown: Town): Town {
@@ -29,13 +36,39 @@ export class AppController {
     return this.appService.getTown(newTown.City);
   }
 
+  @Post()
+  createfavTown(@Body() newTown: Town): Town {
+    this.appService.addfavTown(newTown);
+
+    return this.appService.getfavTown(newTown.City);
+  }
+
   @Get('/:City')
   getTown(@Param('City') City): Town {
     return this.appService.getTown(City);
   }
 
+  @Get('/:City')
+  getfavTown(@Param('City') City): Town {
+    return this.appService.getfavTown(City);
+  }
+
+  @Get('/:City')
+  getTotalNumberOfTowns(): number {
+    return this.appService.getTotalNumberOfTowns();
+  }
+
+  @Get('/:City')
+  getTotalNumberOffavTowns(): number {
+    return this.appService.getTotalNumberOffavTowns();
+  }
+
   @Delete('/:City')
   deleteTown(@Param('City') City): void {
     this.appService.deleteTown(City);
+  }
+  @Delete('/:City')
+  deletefavTown(@Param('City') City): void {
+    this.appService.deletefavTown(City);
   }
 }
