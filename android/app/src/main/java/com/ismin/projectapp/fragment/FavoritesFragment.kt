@@ -17,7 +17,7 @@ private const val ARG_PARAM2 = "param2"
  * Use the [FragmentOne.newInstance] factory method to
  * create an instance of this fragment.
  */
-class FragmentOne : Fragment() {
+class FavoritesFragment : Fragment() {
     // TODO: Rename and change types of parameters
     private var param1: String? = null
     private var param2: String? = null
@@ -35,7 +35,7 @@ class FragmentOne : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_one, container, false)
+        return inflater.inflate(R.layout.fragment_favorites, container, false)
     }
 
 

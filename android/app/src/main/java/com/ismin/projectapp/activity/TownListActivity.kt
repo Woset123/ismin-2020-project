@@ -1,40 +1,47 @@
 package com.ismin.projectapp.activity
 
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.View
+import android.widget.Toast
 import androidx.fragment.app.FragmentTransaction
+import androidx.viewpager.widget.PagerAdapter
 import com.ismin.projectapp.R
 import com.ismin.projectapp.Town
 import com.ismin.projectapp.TownList
 import com.ismin.projectapp.adapter.MyPagerAdapter
-import com.ismin.projectapp.fragment.CreateTownFragment
-import com.ismin.projectapp.fragment.TownCreator
 import com.ismin.projectapp.fragment.TownListFragment
+import com.ismin.projectapp.retrofit.IRequests
 import kotlinx.android.synthetic.main.activity_town_list.*
 import kotlinx.android.synthetic.main.fragment_town_list.*
+import retrofit2.Call
+import retrofit2.Callback
+import retrofit2.Response
+import retrofit2.Retrofit
+import retrofit2.converter.gson.GsonConverterFactory
 
-class TownListActivity : AppCompatActivity(),
-    TownCreator {
+class TownListActivity : AppCompatActivity() {
 
-    private val TAG = TownListActivity::class.simpleName
-
-    private val townlist = TownList()
+    private val CreateTownActivityRequestCode = 1;
+    private lateinit var irequests: IRequests
 
     private val city_test = Town(
-        city = "Paris",
-        population = 2148000,
-        country = "France"
+            Country = "France",
+            City = "Paris",
+            Population = "2148000"
     )
 
     private val city_test2 = Town(
-            city = "Tours",
-            population = 120000,
-            country = "France"
+            Country = "France",
+            City = "Tours",
+            Population = "120000"
     )
+    var townlist = TownList()
 
+    private lateinit var fragmentAdapter : PagerAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -44,92 +51,54 @@ class TownListActivity : AppCompatActivity(),
         setSupportActionBar(toolbar)
 
 
+        townlist.addTown(city_test)
+        townlist.addTown(city_test2)
 
-        //Call
-        /*var retrofit = Retrofit.Builder()
-                .baseUrl("https://api.github.com/")
+        //Retrofit
+        val retrofit = Retrofit.Builder()
+                .addConverterFactory(GsonConverterFactory.create())
+                .baseUrl("https://towns-app.cleverapps.io")
                 .build()
 
-        var service = retrofit.create(IRequests::class.java)
-        var repos = service.listTowns("paris") as Town
+        irequests = retrofit.create(IRequests::class.java)
 
+        irequests.allTowns().enqueue(object : Callback<ArrayList<Town>> {
+            override fun onResponse(
+                    call: Call<ArrayList<Town>>,
+                    response: Response<ArrayList<Town>>
+            ) {
+                val alltowns = response.body()
+                alltowns?.forEach{
+                    townlist.addTown(it)
+                }
 
-        this.townlist.addTown(repos)*/
+            }
 
-        this.townlist.addTown(city_test)
-        this.townlist.addTown(city_test2)
+            override fun onFailure(call: Call<ArrayList<Town>>, t: Throwable) {
+                displayErrorToast(t)
+            }
+        })
 
-        val townListFragment = TownListFragment.newInstance(townlist.getAllTowns())
-
-        supportFragmentManager.beginTransaction()
-                .add(R.id.a_main_lyt_container, townListFragment)
-                .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
-                .commit()
-
-
-        val fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.getAllTowns())
+        fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.getAllTowns())
         viewpager.adapter = fragmentAdapter
         tabLayout.setupWithViewPager(viewpager)
 
 
     }
 
-    fun coucou(view: View) {
-
-        Log.v("123","gotocreation")
-        val createTownFragment =
-            CreateTownFragment()
-
-        supportFragmentManager.beginTransaction()
-                .add(R.id.a_main_lyt_container, createTownFragment)
-                .addToBackStack("createTownFragment")
-                .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
-                .commit()
-        Log.v("124","gotocreation2")
-        a_main_btn_creation.visibility = View.GONE
-        Log.v("125","gotocreation3")
-
-
+    private fun displayErrorToast(t: Throwable) {
+        Toast.makeText(
+                applicationContext,
+                "Network error ${t.localizedMessage}",
+                Toast.LENGTH_LONG
+        ).show()
     }
 
-    /**Toolbar Settings**/
-    /***Put this code into the right activity (to be created)
-    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-        val inflater = menuInflater
-        inflater.inflate(R.menu.menu_town_view, menu)
-        return super.onCreateOptionsMenu(menu)
+
+     fun createNewTown(view: View) {
+        val intent = Intent(this, CreateTownActivity::class.java)
+        startActivityForResult(intent, this.CreateTownActivityRequestCode)
     }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        return when (item.itemId) {
-            R.id.action_delete -> {
-                /**TO DO**/
-                Toast.makeText(this, "Delete resource", Toast.LENGTH_SHORT).show()
-                true
-            }
-            else -> super.onOptionsItemSelected(item)
-        }
-    }**/
-
-    override fun onTownCreated(town: Town) {
-        
-        townlist.addTown(town)
-        this.closeCreateFragment()
-    }
-
-    override fun closeCreateFragment() {
-        val bookListFragment = TownListFragment.newInstance(townlist.getAllTowns())
-
-        supportFragmentManager.beginTransaction()
-                .replace(R.id.a_main_lyt_container, bookListFragment)
-                .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
-                .commit()
-
-        //a_main_btn_creation.visibility = View.VISIBLE
-    }
-
-    fun favourite(){
-        /**To Do**/
-    }
 
 }

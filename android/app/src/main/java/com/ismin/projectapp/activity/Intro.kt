@@ -7,8 +7,11 @@ import android.os.Handler
 import android.view.animation.AnimationUtils
 import android.widget.ImageView
 import com.ismin.projectapp.R
+import com.ismin.projectapp.Town
+import com.ismin.projectapp.TownList
 
 class Intro : AppCompatActivity() {
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
 
@@ -29,4 +32,5 @@ class Intro : AppCompatActivity() {
             finish()
         }, 2000)
     }
+
 }

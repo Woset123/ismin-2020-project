@@ -4,8 +4,8 @@ import java.io.Serializable
 
 data class Town(
 
-        val city: String,
-        val population: Int,
-        val country: String
+    val Country: String,
+    val City: String,
+    val Population: String
 
 ) : Serializable
