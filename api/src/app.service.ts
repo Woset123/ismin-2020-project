@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { Town } from './Town';
-import * as DataTown1 from '../csvjson.json';
-import * as DataTown2 from '../csvjsonfav.json';
+import DataTown1 from '../csvjson.json';
+import DataTown2 from '../csvjsonfav.json';
 
 const donnee1: Map<string, Town> = new Map();
 const donnee2: Map<string, Town> = new Map();
