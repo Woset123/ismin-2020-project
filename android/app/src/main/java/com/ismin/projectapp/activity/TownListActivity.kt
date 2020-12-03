@@ -29,17 +29,19 @@ class TownListActivity : AppCompatActivity() {
     private lateinit var irequests: IRequests
 
     private val city_test = Town(
-            Country = "France",
+
             City = "Paris",
+            Country = "France",
             Population = "2148000"
     )
 
     private val city_test2 = Town(
-            Country = "France",
+
             City = "Tours",
+            Country = "France",
             Population = "120000"
     )
-    var townlist = TownList()
+    val townlist = TownList()
 
     private lateinit var fragmentAdapter : PagerAdapter
 
@@ -51,8 +53,8 @@ class TownListActivity : AppCompatActivity() {
         setSupportActionBar(toolbar)
 
 
-        townlist.addTown(city_test)
-        townlist.addTown(city_test2)
+        //townlist.addTown(city_test)
+        //townlist.addTown(city_test2)
 
         //Retrofit
         val retrofit = Retrofit.Builder()
@@ -72,6 +74,8 @@ class TownListActivity : AppCompatActivity() {
                     townlist.addTown(it)
                 }
 
+                displayList()
+
             }
 
             override fun onFailure(call: Call<ArrayList<Town>>, t: Throwable) {
@@ -79,9 +83,7 @@ class TownListActivity : AppCompatActivity() {
             }
         })
 
-        fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.getAllTowns())
-        viewpager.adapter = fragmentAdapter
-        tabLayout.setupWithViewPager(viewpager)
+
 
 
     }
@@ -98,6 +100,14 @@ class TownListActivity : AppCompatActivity() {
      fun createNewTown(view: View) {
         val intent = Intent(this, CreateTownActivity::class.java)
         startActivityForResult(intent, this.CreateTownActivityRequestCode)
+    }
+
+
+    fun displayList() {
+
+        fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.getAllTowns())
+        viewpager.adapter = fragmentAdapter
+        tabLayout.setupWithViewPager(viewpager)
     }
 
 

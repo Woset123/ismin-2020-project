@@ -69,15 +69,15 @@ class TownListFragment(townsList: ArrayList<Town>) : Fragment(), TownAdapter.OnI
                 }
     }
 
-    override fun onItemClick(County: String, City: String, Population: String) {
+    override fun onItemClick(City: String, Country: String, Population: String) {
 
-        val Country = County
+        val Country = Country
         val City = City
         val Population = Population
 
         val intent = Intent(activity, FocusTownActivity::class.java)
-            .putExtra("country", Country)
             .putExtra("city", City)
+            .putExtra("country", Country)
             .putExtra("population", Population)
         startActivityForResult(intent, this.FocusTownActivityRequestCode)
     }

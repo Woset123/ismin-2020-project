@@ -24,8 +24,9 @@ class FocusTownActivity : AppCompatActivity() {
 
         val intent = intent
 
-        val Country = intent.getStringExtra("country")
+
         val City = intent.getStringExtra("city")
+        val Country = intent.getStringExtra("country")
         val Population = intent.getStringExtra("population")
 
         val seeCity = this.findViewById<TextView>(R.id.city_name)

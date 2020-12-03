@@ -39,7 +39,7 @@ class TownAdapter (private val towns: ArrayList<Town>, private val listener: OnI
     }
 
     interface OnItemClickListener {
-        fun onItemClick(County: String, City: String, Population: String)
+        fun onItemClick(City: String, Country: String, Population: String)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): TownViewHolder {
@@ -52,7 +52,7 @@ class TownAdapter (private val towns: ArrayList<Town>, private val listener: OnI
     }
 
     override fun onBindViewHolder(holder: TownViewHolder, position: Int) {
-        val (country, city, population) = this.towns[position]
+        val (city, country, population) = this.towns[position]
 
         holder.itemCity.text = city
         holder.itemPopulation.text = population

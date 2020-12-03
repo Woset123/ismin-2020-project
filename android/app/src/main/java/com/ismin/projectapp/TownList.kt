@@ -21,7 +21,7 @@ class TownList : Serializable {
 
     fun getTownsofCountry(Country: String): List<Town> {
         val filteredStorage = this.storage.filter { it.value.Country == Country }
-        return ArrayList(filteredStorage.values).sortedBy { town -> town.City }
+        return ArrayList(filteredStorage.values).sortedBy { town -> town.Country }
     }
 
     fun getTotalNumberOfTowns(): Int {

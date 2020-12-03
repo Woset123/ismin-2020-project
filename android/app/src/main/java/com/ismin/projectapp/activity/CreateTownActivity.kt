@@ -55,7 +55,7 @@ class CreateTownActivity() : AppCompatActivity() {
         //Retrofit
         val retrofit = Retrofit.Builder()
                 .addConverterFactory(GsonConverterFactory.create())
-                .baseUrl("http://localhost:3001")
+                .baseUrl("https://towns-app.cleverapps.io")
                 .build()
 
         var irequests = retrofit.create(IRequests::class.java)
