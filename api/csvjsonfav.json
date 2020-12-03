@@ -1,3502 +1,1752 @@
 [
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "berlin",
-    "AccentCity": "Berlin",
-    "Region": 16,
-    "Population": 3398362,
-    "Latitude": 52.516667,
-    "Longitude": 13.4,
-    "geopoint": "52.516667,13.4"
+    "Population": 3398362
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "hamburg",
-    "AccentCity": "Hamburg",
-    "Region": 4,
-    "Population": 1733846,
-    "Latitude": 53.55,
-    "Longitude": 10,
-    "geopoint": "53.55,10.0"
+    "Population": 1733846
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "munich",
-    "AccentCity": "Munich",
-    "Region": 2,
-    "Population": 1246133,
-    "Latitude": 48.15,
-    "Longitude": 11.5833,
-    "geopoint": "48.15,11.5833"
+    "Population": 1246133
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "cologne",
-    "AccentCity": "Cologne",
-    "Region": 7,
-    "Population": 968823,
-    "Latitude": 50.933333,
-    "Longitude": 6.95,
-    "geopoint": "50.933333,6.95"
+    "Population": 968823
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "frankfurt",
-    "AccentCity": "Frankfurt",
-    "Region": 5,
-    "Population": 648034,
-    "Latitude": 50.116667,
-    "Longitude": 8.683333,
-    "geopoint": "50.116667,8.683333"
+    "Population": 648034
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "dortmund",
-    "AccentCity": "Dortmund",
-    "Region": 7,
-    "Population": 594255,
-    "Latitude": 51.516667,
-    "Longitude": 7.45,
-    "geopoint": "51.516667,7.45"
+    "Population": 594255
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "stuttgart",
-    "AccentCity": "Stuttgart",
-    "Region": 1,
-    "Population": 591688,
-    "Latitude": 48.766667,
-    "Longitude": 9.183333,
-    "geopoint": "48.766667,9.183333"
+    "Population": 591688
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "dusseldorf",
-    "AccentCity": "Düsseldorf",
-    "Region": 7,
-    "Population": 577139,
-    "Latitude": 51.216667,
-    "Longitude": 6.766667,
-    "geopoint": "51.216667,6.766667"
+    "Population": 577139
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "essen",
-    "AccentCity": "Essen",
-    "Region": 7,
-    "Population": 576914,
-    "Latitude": 51.45,
-    "Longitude": 7.016667,
-    "geopoint": "51.45,7.016667"
+    "Population": 576914
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "bremen",
-    "AccentCity": "Bremen",
-    "Region": 3,
-    "Population": 546429,
-    "Latitude": 53.083333,
-    "Longitude": 8.8,
-    "geopoint": "53.083333,8.8"
+    "Population": 546429
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "hanover",
-    "AccentCity": "Hanover",
-    "Region": 6,
-    "Population": 519144,
-    "Latitude": 52.366667,
-    "Longitude": 9.716667,
-    "geopoint": "52.366667,9.716667"
+    "Population": 519144
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "duisburg",
-    "AccentCity": "Duisburg",
-    "Region": 7,
-    "Population": 505271,
-    "Latitude": 51.433333,
-    "Longitude": 6.75,
-    "geopoint": "51.433333,6.75"
+    "Population": 505271
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "nuremberg",
-    "AccentCity": "Nuremberg",
-    "Region": 2,
-    "Population": 497593,
-    "Latitude": 49.447778,
-    "Longitude": 11.068333,
-    "geopoint": "49.447778,11.068333"
+    "Population": 497593
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "leipzig",
-    "AccentCity": "Leipzig",
-    "Region": 13,
-    "Population": 492637,
-    "Latitude": 51.3,
-    "Longitude": 12.333333,
-    "geopoint": "51.3,12.333333"
+    "Population": 492637
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "dresden",
-    "AccentCity": "Dresden",
-    "Region": 13,
-    "Population": 480801,
-    "Latitude": 51.05,
-    "Longitude": 13.75,
-    "geopoint": "51.05,13.75"
+    "Population": 480801
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "bochum",
-    "AccentCity": "Bochum",
-    "Region": 7,
-    "Population": 387061,
-    "Latitude": 51.483333,
-    "Longitude": 7.216667,
-    "geopoint": "51.483333,7.216667"
+    "Population": 387061
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "wuppertal",
-    "AccentCity": "Wuppertal",
-    "Region": 7,
-    "Population": 363240,
-    "Latitude": 51.266667,
-    "Longitude": 7.183333,
-    "geopoint": "51.266667,7.183333"
+    "Population": 363240
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "bielefeld",
-    "AccentCity": "Bielefeld",
-    "Region": 7,
-    "Population": 327198,
-    "Latitude": 52.033333,
-    "Longitude": 8.533333,
-    "geopoint": "52.033333,8.533333"
+    "Population": 327198
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "bonn",
-    "AccentCity": "Bonn",
-    "Region": 7,
-    "Population": 314081,
-    "Latitude": 50.733333,
-    "Longitude": 7.1,
-    "geopoint": "50.733333,7.1"
+    "Population": 314081
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "mannheim",
-    "AccentCity": "Mannheim",
-    "Region": 1,
-    "Population": 309626,
-    "Latitude": 49.488333,
-    "Longitude": 8.464722,
-    "geopoint": "49.488333,8.464722"
+    "Population": 309626
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "karlsruhe",
-    "AccentCity": "Karlsruhe",
-    "Region": 1,
-    "Population": 284786,
-    "Latitude": 49.004722,
-    "Longitude": 8.385833,
-    "geopoint": "49.004722,8.385833"
+    "Population": 284786
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "munster",
-    "AccentCity": "Münster",
-    "Region": 7,
-    "Population": 272452,
-    "Latitude": 51.966667,
-    "Longitude": 7.633333,
-    "geopoint": "51.966667,7.633333"
+    "Population": 272452
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "wiesbaden",
-    "AccentCity": "Wiesbaden",
-    "Region": 5,
-    "Population": 272337,
-    "Latitude": 50.083333,
-    "Longitude": 8.25,
-    "geopoint": "50.083333,8.25"
+    "Population": 272337
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "gelsenkirchen",
-    "AccentCity": "Gelsenkirchen",
-    "Region": 7,
-    "Population": 271647,
-    "Latitude": 51.516667,
-    "Longitude": 7.05,
-    "geopoint": "51.516667,7.05"
+    "Population": 271647
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "monchengladbach",
-    "AccentCity": "Mönchengladbach",
-    "Region": 7,
-    "Population": 264969,
-    "Latitude": 51.2,
-    "Longitude": 6.433333,
-    "geopoint": "51.2,6.433333"
+    "Population": 264969
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "augsburg",
-    "AccentCity": "Augsburg",
-    "Region": 2,
-    "Population": 261842,
-    "Latitude": 48.366667,
-    "Longitude": 10.883333,
-    "geopoint": "48.366667,10.883333"
+    "Population": 261842
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "aachen",
-    "AccentCity": "Aachen",
-    "Region": 7,
-    "Population": 251104,
-    "Latitude": 50.770833,
-    "Longitude": 6.105278,
-    "geopoint": "50.770833,6.105278"
+    "Population": 251104
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "chemnitz",
-    "AccentCity": "Chemnitz",
-    "Region": 13,
-    "Population": 246654,
-    "Latitude": 50.833333,
-    "Longitude": 12.916667,
-    "geopoint": "50.833333,12.916667"
+    "Population": 246654
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "brunswick",
-    "AccentCity": "Brunswick",
-    "Region": 6,
-    "Population": 245259,
-    "Latitude": 52.266667,
-    "Longitude": 10.533333,
-    "geopoint": "52.266667,10.533333"
+    "Population": 245259
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "krefeld",
-    "AccentCity": "Krefeld",
-    "Region": 7,
-    "Population": 239908,
-    "Latitude": 51.333333,
-    "Longitude": 6.566667,
-    "geopoint": "51.333333,6.566667"
+    "Population": 239908
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "kiel",
-    "AccentCity": "Kiel",
-    "Region": 10,
-    "Population": 235264,
-    "Latitude": 54.333333,
-    "Longitude": 10.133333,
-    "geopoint": "54.333333,10.133333"
+    "Population": 235264
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "halle",
-    "AccentCity": "Halle",
-    "Region": 14,
-    "Population": 232452,
-    "Latitude": 51.5,
-    "Longitude": 12,
-    "geopoint": "51.5,12.0"
+    "Population": 232452
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "magdeburg",
-    "AccentCity": "Magdeburg",
-    "Region": 14,
-    "Population": 224428,
-    "Latitude": 52.166667,
-    "Longitude": 11.666667,
-    "geopoint": "52.166667,11.666667"
+    "Population": 224428
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "oberhausen",
-    "AccentCity": "Oberhausen",
-    "Region": 7,
-    "Population": 220916,
-    "Latitude": 51.466667,
-    "Longitude": 6.85,
-    "geopoint": "51.466667,6.85"
+    "Population": 220916
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "freiburg",
-    "AccentCity": "Freiburg",
-    "Region": 1,
-    "Population": 213920,
-    "Latitude": 48,
-    "Longitude": 7.85,
-    "geopoint": "48.0,7.85"
+    "Population": 213920
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "lubeck",
-    "AccentCity": "Lübeck",
-    "Region": 10,
-    "Population": 213171,
-    "Latitude": 53.866667,
-    "Longitude": 10.7,
-    "geopoint": "53.866667,10.7"
+    "Population": 213171
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "hagen",
-    "AccentCity": "Hagen",
-    "Region": 7,
-    "Population": 199497,
-    "Latitude": 51.35,
-    "Longitude": 7.466667,
-    "geopoint": "51.35,7.466667"
+    "Population": 199497
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "rostock",
-    "AccentCity": "Rostock",
-    "Region": 12,
-    "Population": 196833,
-    "Latitude": 54.083333,
-    "Longitude": 12.133333,
-    "geopoint": "54.083333,12.133333"
+    "Population": 196833
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "erfurt",
-    "AccentCity": "Erfurt",
-    "Region": 15,
-    "Population": 196719,
-    "Latitude": 50.983333,
-    "Longitude": 11.033333,
-    "geopoint": "50.983333,11.033333"
+    "Population": 196719
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "kassel",
-    "AccentCity": "Kassel",
-    "Region": 5,
-    "Population": 193117,
-    "Latitude": 51.316667,
-    "Longitude": 9.5,
-    "geopoint": "51.316667,9.5"
+    "Population": 193117
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "mainz",
-    "AccentCity": "Mainz",
-    "Region": 8,
-    "Population": 187940,
-    "Latitude": 50,
-    "Longitude": 8.271111,
-    "geopoint": "50.0,8.271111"
+    "Population": 187940
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "hamm",
-    "AccentCity": "Hamm",
-    "Region": 7,
-    "Population": 186289,
-    "Latitude": 51.683333,
-    "Longitude": 7.8,
-    "geopoint": "51.683333,7.8"
+    "Population": 186289
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "saarbrucken",
-    "AccentCity": "Saarbrücken",
-    "Region": 9,
-    "Population": 181779,
-    "Latitude": 49.233333,
-    "Longitude": 7,
-    "geopoint": "49.233333,7.0"
+    "Population": 181779
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "herne",
-    "AccentCity": "Herne",
-    "Region": 7,
-    "Population": 173121,
-    "Latitude": 51.55,
-    "Longitude": 7.216667,
-    "geopoint": "51.55,7.216667"
+    "Population": 173121
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "mulheim",
-    "AccentCity": "Mülheim",
-    "Region": 7,
-    "Population": 172779,
-    "Latitude": 51.433333,
-    "Longitude": 6.883333,
-    "geopoint": "51.433333,6.883333"
+    "Population": 172779
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "osnabruck",
-    "AccentCity": "Osnabrück",
-    "Region": 6,
-    "Population": 165372,
-    "Latitude": 52.266667,
-    "Longitude": 8.05,
-    "geopoint": "52.266667,8.05"
+    "Population": 165372
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "solingen",
-    "AccentCity": "Solingen",
-    "Region": 7,
-    "Population": 165192,
-    "Latitude": 51.183333,
-    "Longitude": 7.083333,
-    "geopoint": "51.183333,7.083333"
+    "Population": 165192
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "ludwigshafen",
-    "AccentCity": "Ludwigshafen",
-    "Region": 8,
-    "Population": 162514,
-    "Latitude": 49.481111,
-    "Longitude": 8.435278,
-    "geopoint": "49.481111,8.435278"
+    "Population": 162514
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "oldenburg",
-    "AccentCity": "Oldenburg",
-    "Region": 6,
-    "Population": 160347,
-    "Latitude": 53.166667,
-    "Longitude": 8.2,
-    "geopoint": "53.166667,8.2"
+    "Population": 160347
   },
   {
-    "Country": "de",
+    "Country": "Germany",
     "City": "leverkusen",
-    "AccentCity": "Leverkusen",
-    "Region": 7,
-    "Population": 159088,
-    "Latitude": 51.016667,
-    "Longitude": 6.983333,
-    "geopoint": "51.016667,6.983333"
+    "Population": 159088
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "paris",
-    "AccentCity": "Paris",
-    "Region": "A8",
-    "Population": 2110694,
-    "Latitude": 48.866667,
-    "Longitude": 2.333333,
-    "geopoint": "48.866667,2.333333"
+    "Population": 2110694
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "marseille",
-    "AccentCity": "Marseille",
-    "Region": "B8",
-    "Population": 792823,
-    "Latitude": 43.285413,
-    "Longitude": 5.37606,
-    "geopoint": "43.285413,5.37606"
+    "Population": 792823
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "lyon",
-    "AccentCity": "Lyon",
-    "Region": "B9",
-    "Population": 463700,
-    "Latitude": 45.748457,
-    "Longitude": 4.846711,
-    "geopoint": "45.748457,4.846711"
+    "Population": 463700
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "toulouse",
-    "AccentCity": "Toulouse",
-    "Region": "B3",
-    "Population": 411145,
-    "Latitude": 43.599516,
-    "Longitude": 1.433188,
-    "geopoint": "43.599516,1.433188"
+    "Population": 411145
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "nice",
-    "AccentCity": "Nice",
-    "Region": "B8",
-    "Population": 341621,
-    "Latitude": 43.713644,
-    "Longitude": 7.25952,
-    "geopoint": "43.713644,7.25952"
+    "Population": 341621
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "nantes",
-    "AccentCity": "Nantes",
-    "Region": "B5",
-    "Population": 284677,
-    "Latitude": 47.216509,
-    "Longitude": -1.552379,
-    "geopoint": "47.216509,-1.552379"
+    "Population": 284677
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "strasbourg",
-    "AccentCity": "Strasbourg",
-    "Region": "C1",
-    "Population": 273506,
-    "Latitude": 48.600381,
-    "Longitude": 7.787355,
-    "geopoint": "48.600381,7.787355"
+    "Population": 273506
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "montpellier",
-    "AccentCity": "Montpellier",
-    "Region": "A9",
-    "Population": 238887,
-    "Latitude": 43.61092,
-    "Longitude": 3.87723,
-    "geopoint": "43.61092,3.87723"
+    "Population": 238887
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "bordeaux",
-    "AccentCity": "Bordeaux",
-    "Region": 97,
-    "Population": 219311,
-    "Latitude": 44.840439,
-    "Longitude": -0.5805,
-    "geopoint": "44.840439,-0.5805"
+    "Population": 219311
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "rennes",
-    "AccentCity": "Rennes",
-    "Region": "A2",
-    "Population": 213334,
-    "Latitude": 48.111981,
-    "Longitude": -1.674291,
-    "geopoint": "48.111981,-1.674291"
+    "Population": 213334
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "reims",
-    "AccentCity": "Reims",
-    "Region": "A4",
-    "Population": 192688,
-    "Latitude": 49.25,
-    "Longitude": 4.033333,
-    "geopoint": "49.25,4.033333"
+    "Population": 192688
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "lille",
-    "AccentCity": "Lille",
-    "Region": "B4",
-    "Population": 189746,
-    "Latitude": 50.632971,
-    "Longitude": 3.058585,
-    "geopoint": "50.632971,3.058585"
+    "Population": 189746
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "le havre",
-    "AccentCity": "Le Havre",
-    "Region": "A7",
-    "Population": 188605,
-    "Latitude": 49.5,
-    "Longitude": 0.133333,
-    "geopoint": "49.5,0.133333"
+    "Population": 188605
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "saint-etienne",
-    "AccentCity": "Saint-Étienne",
-    "Region": "B9",
-    "Population": 170416,
-    "Latitude": 45.435382,
-    "Longitude": 4.391051,
-    "geopoint": "45.435382,4.391051"
+    "Population": 170416
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "angers",
-    "AccentCity": "Angers",
-    "Region": "B5",
-    "Population": 158585,
-    "Latitude": 47.473806,
-    "Longitude": -0.54774,
-    "geopoint": "47.473806,-0.54774"
+    "Population": 158585
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "grenoble",
-    "AccentCity": "Grenoble",
-    "Region": "B9",
-    "Population": 154853,
-    "Latitude": 45.171546,
-    "Longitude": 5.722387,
-    "geopoint": "45.171546,5.722387"
+    "Population": 154853
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "toulon",
-    "AccentCity": "Toulon",
-    "Region": "B8",
-    "Population": 154465,
-    "Latitude": 43.117705,
-    "Longitude": 5.941712,
-    "geopoint": "43.117705,5.941712"
+    "Population": 154465
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "dijon",
-    "AccentCity": "Dijon",
-    "Region": "A1",
-    "Population": 153692,
-    "Latitude": 47.316667,
-    "Longitude": 5.016667,
-    "geopoint": "47.316667,5.016667"
+    "Population": 153692
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "brest",
-    "AccentCity": "Brest",
-    "Region": "A2",
-    "Population": 150554,
-    "Latitude": 48.390756,
-    "Longitude": -4.486165,
-    "geopoint": "48.390756,-4.486165"
+    "Population": 150554
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "le mans",
-    "AccentCity": "Le Mans",
-    "Region": "B5",
-    "Population": 147413,
-    "Latitude": 48.000386,
-    "Longitude": 0.204709,
-    "geopoint": "48.000386,0.204709"
+    "Population": 147413
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "aix-en-provence",
-    "AccentCity": "Aix-en-Provence",
-    "Region": "B8",
-    "Population": 142133,
-    "Latitude": 43.528695,
-    "Longitude": 5.448791,
-    "geopoint": "43.528695,5.448791"
+    "Population": 142133
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "amiens",
-    "AccentCity": "Amiens",
-    "Region": "B6",
-    "Population": 138816,
-    "Latitude": 49.9,
-    "Longitude": 2.3,
-    "geopoint": "49.9,2.3"
+    "Population": 138816
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "nimes",
-    "AccentCity": "Nîmes",
-    "Region": "A9",
-    "Population": 137532,
-    "Latitude": 43.833778,
-    "Longitude": 4.359623,
-    "geopoint": "43.833778,4.359623"
+    "Population": 137532
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "clermont-ferrand",
-    "AccentCity": "Clermont-Ferrand",
-    "Region": 98,
-    "Population": 137364,
-    "Latitude": 45.779657,
-    "Longitude": 3.086281,
-    "geopoint": "45.779657,3.086281"
+    "Population": 137364
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "tours",
-    "AccentCity": "Tours",
-    "Region": "A3",
-    "Population": 135143,
-    "Latitude": 47.394836,
-    "Longitude": 0.703977,
-    "geopoint": "47.394836,0.703977"
+    "Population": 135143
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "limoges",
-    "AccentCity": "Limoges",
-    "Region": "B1",
-    "Population": 134549,
-    "Latitude": 45.831534,
-    "Longitude": 1.257805,
-    "geopoint": "45.831534,1.257805"
+    "Population": 134549
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "metz",
-    "AccentCity": "Metz",
-    "Region": "B2",
-    "Population": 128021,
-    "Latitude": 49.115461,
-    "Longitude": 6.175875,
-    "geopoint": "49.115461,6.175875"
+    "Population": 128021
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "villeurbanne",
-    "AccentCity": "Villeurbanne",
-    "Region": "B9",
-    "Population": 126230,
-    "Latitude": 45.765502,
-    "Longitude": 4.875522,
-    "geopoint": "45.765502,4.875522"
+    "Population": 126230
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "besancon",
-    "AccentCity": "Besançon",
-    "Region": "A6",
-    "Population": 120139,
-    "Latitude": 47.248778,
-    "Longitude": 6.018152,
-    "geopoint": "47.248778,6.018152"
+    "Population": 120139
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "orleans",
-    "AccentCity": "Orléans",
-    "Region": "A3",
-    "Population": 118190,
-    "Latitude": 47.902891,
-    "Longitude": 1.903887,
-    "geopoint": "47.902891,1.903887"
+    "Population": 118190
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "caen",
-    "AccentCity": "Caen",
-    "Region": 99,
-    "Population": 115358,
-    "Latitude": 49.197188,
-    "Longitude": -0.326822,
-    "geopoint": "49.197188,-0.326822"
+    "Population": 115358
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "mulhouse",
-    "AccentCity": "Mulhouse",
-    "Region": "C1",
-    "Population": 111972,
-    "Latitude": 47.738082,
-    "Longitude": 7.347932,
-    "geopoint": "47.738082,7.347932"
+    "Population": 111972
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "boulogne-billancourt",
-    "AccentCity": "Boulogne-Billancourt",
-    "Region": "A8",
-    "Population": 109765,
-    "Latitude": 48.835684,
-    "Longitude": 2.247342,
-    "geopoint": "48.835684,2.247342"
+    "Population": 109765
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "rouen",
-    "AccentCity": "Rouen",
-    "Region": "A7",
-    "Population": 108101,
-    "Latitude": 49.433333,
-    "Longitude": 1.083333,
-    "geopoint": "49.433333,1.083333"
+    "Population": 108101
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "nancy",
-    "AccentCity": "Nancy",
-    "Region": "B2",
-    "Population": 106857,
-    "Latitude": 48.69211,
-    "Longitude": 6.187756,
-    "geopoint": "48.69211,6.187756"
+    "Population": 106857
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "perpignan",
-    "AccentCity": "Perpignan",
-    "Region": "A9",
-    "Population": 104783,
-    "Latitude": 42.696172,
-    "Longitude": 2.897098,
-    "geopoint": "42.696172,2.897098"
+    "Population": 104783
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "roubaix",
-    "AccentCity": "Roubaix",
-    "Region": "B4",
-    "Population": 96806,
-    "Latitude": 50.694207,
-    "Longitude": 3.174556,
-    "geopoint": "50.694207,3.174556"
+    "Population": 96806
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "argenteuil",
-    "AccentCity": "Argenteuil",
-    "Region": "A8",
-    "Population": 95075,
-    "Latitude": 48.939396,
-    "Longitude": 2.2367,
-    "geopoint": "48.939396,2.2367"
+    "Population": 95075
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "tourcoing",
-    "AccentCity": "Tourcoing",
-    "Region": "B4",
-    "Population": 93835,
-    "Latitude": 50.723907,
-    "Longitude": 3.161168,
-    "geopoint": "50.723907,3.161168"
+    "Population": 93835
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "montreuil",
-    "AccentCity": "Montreuil",
-    "Region": "A8",
-    "Population": 89125,
-    "Latitude": 48.864151,
-    "Longitude": 2.443218,
-    "geopoint": "48.864151,2.443218"
+    "Population": 89125
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "poitiers",
-    "AccentCity": "Poitiers",
-    "Region": "B7",
-    "Population": 86639,
-    "Latitude": 46.583333,
-    "Longitude": 0.333333,
-    "geopoint": "46.583333,0.333333"
+    "Population": 86639
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "avignon",
-    "AccentCity": "Avignon",
-    "Region": "B8",
-    "Population": 85848,
-    "Latitude": 43.945404,
-    "Longitude": 4.810226,
-    "geopoint": "43.945404,4.810226"
+    "Population": 85848
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "versailles",
-    "AccentCity": "Versailles",
-    "Region": "A8",
-    "Population": 85134,
-    "Latitude": 48.803593,
-    "Longitude": 2.134236,
-    "geopoint": "48.803593,2.134236"
+    "Population": 85134
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "nanterre",
-    "AccentCity": "Nanterre",
-    "Region": "A8",
-    "Population": 84448,
-    "Latitude": 48.891373,
-    "Longitude": 2.20027,
-    "geopoint": "48.891373,2.20027"
+    "Population": 84448
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "creteil",
-    "AccentCity": "Créteil",
-    "Region": "A8",
-    "Population": 84133,
-    "Latitude": 48.792661,
-    "Longitude": 2.465694,
-    "geopoint": "48.792661,2.465694"
+    "Population": 84133
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "saint-denis",
-    "AccentCity": "Saint-Denis",
-    "Region": "A8",
-    "Population": 84027,
-    "Latitude": 48.934172,
-    "Longitude": 2.354805,
-    "geopoint": "48.934172,2.354805"
+    "Population": 84027
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "la rochelle",
-    "AccentCity": "La Rochelle",
-    "Region": "B7",
-    "Population": 80406,
-    "Latitude": 46.166667,
-    "Longitude": -1.15,
-    "geopoint": "46.166667,-1.15"
+    "Population": 80406
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "aulnay-sous-bois",
-    "AccentCity": "Aulnay-sous-Bois",
-    "Region": "A8",
-    "Population": 79622,
-    "Latitude": 48.938138,
-    "Longitude": 2.494022,
-    "geopoint": "48.938138,2.494022"
+    "Population": 79622
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "calais",
-    "AccentCity": "Calais",
-    "Region": "B4",
-    "Population": 79010,
-    "Latitude": 50.951241,
-    "Longitude": 1.85899,
-    "geopoint": "50.951241,1.85899"
+    "Population": 79010
   },
   {
-    "Country": "fr",
+    "Country": "France",
     "City": "rueil-malmaison",
-    "AccentCity": "Rueil-Malmaison",
-    "Region": "A8",
-    "Population": 78645,
-    "Latitude": 48.876503,
-    "Longitude": 2.189666,
-    "geopoint": "48.876503,2.189666"
+    "Population": 78645
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "london",
-    "AccentCity": "London",
-    "Region": "H9",
-    "Population": 7421228,
-    "Latitude": 51.514125,
-    "Longitude": -0.093689,
-    "geopoint": "51.514125,-0.093689"
+    "Population": 7421228
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "birmingham",
-    "AccentCity": "Birmingham",
-    "Region": "A7",
-    "Population": 984336,
-    "Latitude": 52.466667,
-    "Longitude": -1.916667,
-    "geopoint": "52.466667,-1.916667"
+    "Population": 984336
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "glasgow",
-    "AccentCity": "Glasgow",
-    "Region": "V2",
-    "Population": 610271,
-    "Latitude": 55.833333,
-    "Longitude": -4.25,
-    "geopoint": "55.833333,-4.25"
+    "Population": 610271
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "belfast",
-    "AccentCity": "Belfast",
-    "Region": "R3",
-    "Population": 585994,
-    "Latitude": 54.583333,
-    "Longitude": -5.933333,
-    "geopoint": "54.583333,-5.933333"
+    "Population": 585994
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "liverpool",
-    "AccentCity": "Liverpool",
-    "Region": "H8",
-    "Population": 468946,
-    "Latitude": 53.416667,
-    "Longitude": -3,
-    "geopoint": "53.416667,-3.0"
+    "Population": 468946
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "leeds",
-    "AccentCity": "Leeds",
-    "Region": "H3",
-    "Population": 455124,
-    "Latitude": 53.8,
-    "Longitude": -1.583333,
-    "geopoint": "53.8,-1.583333"
+    "Population": 455124
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "sheffield",
-    "AccentCity": "Sheffield",
-    "Region": "L9",
-    "Population": 447048,
-    "Latitude": 53.366667,
-    "Longitude": -1.5,
-    "geopoint": "53.366667,-1.5"
+    "Population": 447048
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "edinburgh",
-    "AccentCity": "Edinburgh",
-    "Region": "U8",
-    "Population": 435794,
-    "Latitude": 55.95,
-    "Longitude": -3.2,
-    "geopoint": "55.95,-3.2"
+    "Population": 435794
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "bristol",
-    "AccentCity": "Bristol",
-    "Region": "B7",
-    "Population": 430714,
-    "Latitude": 51.45,
-    "Longitude": -2.583333,
-    "geopoint": "51.45,-2.583333"
+    "Population": 430714
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "manchester",
-    "AccentCity": "Manchester",
-    "Region": "I2",
-    "Population": 395516,
-    "Latitude": 53.5,
-    "Longitude": -2.216667,
-    "geopoint": "53.5,-2.216667"
+    "Population": 395516
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "leicester",
-    "AccentCity": "Leicester",
-    "Region": "H4",
-    "Population": 339240,
-    "Latitude": 52.633333,
-    "Longitude": -1.133333,
-    "geopoint": "52.633333,-1.133333"
+    "Population": 339240
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "leicester",
-    "AccentCity": "Leicester",
-    "Region": "H5",
-    "Population": 339240,
-    "Latitude": 52.664913,
-    "Longitude": -1.034894,
-    "geopoint": "52.664913,-1.034894"
+    "Population": 339240
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "coventry",
-    "AccentCity": "Coventry",
-    "Region": "C7",
-    "Population": 308314,
-    "Latitude": 52.416667,
-    "Longitude": -1.55,
-    "geopoint": "52.416667,-1.55"
+    "Population": 308314
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "kingston upon hull",
-    "AccentCity": "Kingston upon Hull",
-    "Region": "G6",
-    "Population": 302297,
-    "Latitude": 53.716667,
-    "Longitude": -0.333333,
-    "geopoint": "53.716667,-0.333333"
+    "Population": 302297
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "cardiff",
-    "AccentCity": "Cardiff",
-    "Region": "X5",
-    "Population": 302142,
-    "Latitude": 51.5,
-    "Longitude": -3.2,
-    "geopoint": "51.5,-3.2"
+    "Population": 302142
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "bradford",
-    "AccentCity": "Bradford",
-    "Region": "B4",
-    "Population": 299310,
-    "Latitude": 53.783333,
-    "Longitude": -1.75,
-    "geopoint": "53.783333,-1.75"
+    "Population": 299310
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "stoke-on-trent",
-    "AccentCity": "Stoke-on-Trent",
-    "Region": "N4",
-    "Population": 260420,
-    "Latitude": 53,
-    "Longitude": -2.183333,
-    "geopoint": "53.0,-2.183333"
+    "Population": 260420
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "wolverhampton",
-    "AccentCity": "Wolverhampton",
-    "Region": "Q3",
-    "Population": 252792,
-    "Latitude": 52.583333,
-    "Longitude": -2.133333,
-    "geopoint": "52.583333,-2.133333"
+    "Population": 252792
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "plymouth",
-    "AccentCity": "Plymouth",
-    "Region": "K4",
-    "Population": 247298,
-    "Latitude": 50.396389,
-    "Longitude": -4.138611,
-    "geopoint": "50.396389,-4.138611"
+    "Population": 247298
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "nottingham",
-    "AccentCity": "Nottingham",
-    "Region": "J8",
-    "Population": 246655,
-    "Latitude": 52.966667,
-    "Longitude": -1.166667,
-    "geopoint": "52.966667,-1.166667"
+    "Population": 246655
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "southampton",
-    "AccentCity": "Southampton",
-    "Region": "M4",
-    "Population": 246201,
-    "Latitude": 50.9,
-    "Longitude": -1.4,
-    "geopoint": "50.9,-1.4"
+    "Population": 246201
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "reading",
-    "AccentCity": "Reading",
-    "Region": "K7",
-    "Population": 244071,
-    "Latitude": 51.433333,
-    "Longitude": -1,
-    "geopoint": "51.433333,-1.0"
+    "Population": 244071
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "derby",
-    "AccentCity": "Derby",
-    "Region": "D2",
-    "Population": 235029,
-    "Latitude": 52.933333,
-    "Longitude": -1.5,
-    "geopoint": "52.933333,-1.5"
+    "Population": 235029
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "dudley",
-    "AccentCity": "Dudley",
-    "Region": "D7",
-    "Population": 199060,
-    "Latitude": 52.5,
-    "Longitude": -2.083333,
-    "geopoint": "52.5,-2.083333"
+    "Population": 199060
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "northampton",
-    "AccentCity": "Northampton",
-    "Region": "J1",
-    "Population": 197323,
-    "Latitude": 52.25,
-    "Longitude": -0.883333,
-    "geopoint": "52.25,-0.883333"
+    "Population": 197323
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "portsmouth",
-    "AccentCity": "Portsmouth",
-    "Region": "K6",
-    "Population": 194151,
-    "Latitude": 50.7967,
-    "Longitude": -1.083333,
-    "geopoint": "50.7967,-1.083333"
+    "Population": 194151
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "luton",
-    "AccentCity": "Luton",
-    "Region": "I1",
-    "Population": 193670,
-    "Latitude": 51.883333,
-    "Longitude": -0.416667,
-    "geopoint": "51.883333,-0.416667"
+    "Population": 193670
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "newcastle upon tyne",
-    "AccentCity": "Newcastle upon Tyne",
-    "Region": "I7",
-    "Population": 192382,
-    "Latitude": 54.988056,
-    "Longitude": -1.619444,
-    "geopoint": "54.988056,-1.619444"
+    "Population": 192382
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "preston",
-    "AccentCity": "Preston",
-    "Region": "H2",
-    "Population": 190688,
-    "Latitude": 53.766667,
-    "Longitude": -2.716667,
-    "geopoint": "53.766667,-2.716667"
+    "Population": 190688
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "aberdeen",
-    "AccentCity": "Aberdeen",
-    "Region": "T5",
-    "Population": 183791,
-    "Latitude": 57.133333,
-    "Longitude": -2.1,
-    "geopoint": "57.133333,-2.1"
+    "Population": 183791
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "sunderland",
-    "AccentCity": "Sunderland",
-    "Region": "N6",
-    "Population": 177965,
-    "Latitude": 54.911944,
-    "Longitude": -1.383333,
-    "geopoint": "54.911944,-1.383333"
+    "Population": 177965
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "norwich",
-    "AccentCity": "Norwich",
-    "Region": "I9",
-    "Population": 177636,
-    "Latitude": 52.633333,
-    "Longitude": 1.3,
-    "geopoint": "52.633333,1.3"
+    "Population": 177636
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "bournemouth",
-    "AccentCity": "Bournemouth",
-    "Region": "B2",
-    "Population": 175017,
-    "Latitude": 50.716667,
-    "Longitude": -1.883333,
-    "geopoint": "50.716667,-1.883333"
+    "Population": 175017
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "walsall",
-    "AccentCity": "Walsall",
-    "Region": "O8",
-    "Population": 172142,
-    "Latitude": 52.6,
-    "Longitude": -2,
-    "geopoint": "52.6,-2.0"
+    "Population": 172142
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "swansea",
-    "AccentCity": "Swansea",
-    "Region": "Z1",
-    "Population": 170885,
-    "Latitude": 51.633333,
-    "Longitude": -3.966667,
-    "geopoint": "51.633333,-3.966667"
+    "Population": 170885
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "southend-on-sea",
-    "AccentCity": "Southend-on-Sea",
-    "Region": "M5",
-    "Population": 163378,
-    "Latitude": 51.533333,
-    "Longitude": 0.7,
-    "geopoint": "51.533333,0.7"
+    "Population": 163378
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "swindon",
-    "AccentCity": "Swindon",
-    "Region": "N9",
-    "Population": 162439,
-    "Latitude": 51.516667,
-    "Longitude": -1.783333,
-    "geopoint": "51.516667,-1.783333"
+    "Population": 162439
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "oxford",
-    "AccentCity": "Oxford",
-    "Region": "K2",
-    "Population": 154567,
-    "Latitude": 51.75,
-    "Longitude": -1.25,
-    "geopoint": "51.75,-1.25"
+    "Population": 154567
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "dundee",
-    "AccentCity": "Dundee",
-    "Region": "U3",
-    "Population": 151593,
-    "Latitude": 56.5,
-    "Longitude": -2.966667,
-    "geopoint": "56.5,-2.966667"
+    "Population": 151593
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "poole",
-    "AccentCity": "Poole",
-    "Region": "K5",
-    "Population": 150092,
-    "Latitude": 50.716667,
-    "Longitude": -2,
-    "geopoint": "50.716667,-2.0"
+    "Population": 150092
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "huddersfield",
-    "AccentCity": "Huddersfield",
-    "Region": "G8",
-    "Population": 149018,
-    "Latitude": 53.65,
-    "Longitude": -1.783333,
-    "geopoint": "53.65,-1.783333"
+    "Population": 149018
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "york",
-    "AccentCity": "York",
-    "Region": "Q5",
-    "Population": 144202,
-    "Latitude": 53.954115,
-    "Longitude": -1.064262,
-    "geopoint": "53.954115,-1.064262"
+    "Population": 144202
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "ipswich",
-    "AccentCity": "Ipswich",
-    "Region": "N5",
-    "Population": 143768,
-    "Latitude": 52.083333,
-    "Longitude": 1.166667,
-    "geopoint": "52.083333,1.166667"
+    "Population": 143768
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "blackpool",
-    "AccentCity": "Blackpool",
-    "Region": "A9",
-    "Population": 143101,
-    "Latitude": 53.816667,
-    "Longitude": -3.05,
-    "geopoint": "53.816667,-3.05"
+    "Population": 143101
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "middlesbrough",
-    "AccentCity": "Middlesbrough",
-    "Region": "K9",
-    "Population": 142708,
-    "Latitude": 54.572778,
-    "Longitude": -1.162778,
-    "geopoint": "54.572778,-1.162778"
+    "Population": 142708
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "bolton",
-    "AccentCity": "Bolton",
-    "Region": "B1",
-    "Population": 141331,
-    "Latitude": 53.583333,
-    "Longitude": -2.433333,
-    "geopoint": "53.583333,-2.433333"
+    "Population": 141331
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "peterborough",
-    "AccentCity": "Peterborough",
-    "Region": "K3",
-    "Population": 140142,
-    "Latitude": 52.583333,
-    "Longitude": -0.25,
-    "geopoint": "52.583333,-0.25"
+    "Population": 140142
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "stockport",
-    "AccentCity": "Stockport",
-    "Region": "N2",
-    "Population": 139053,
-    "Latitude": 53.4,
-    "Longitude": -2.15,
-    "geopoint": "53.4,-2.15"
+    "Population": 139053
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "brighton",
-    "AccentCity": "Brighton",
-    "Region": "B6",
-    "Population": 139001,
-    "Latitude": 50.833333,
-    "Longitude": -0.15,
-    "geopoint": "50.833333,-0.15"
+    "Population": 139001
   },
   {
-    "Country": "gb",
+    "Country": "United-Kingdom",
     "City": "west bromwich",
-    "AccentCity": "West Bromwich",
-    "Region": "L7",
-    "Population": 135618,
-    "Latitude": 52.516667,
-    "Longitude": -2,
-    "geopoint": "52.516667,-2.0"
+    "Population": 135618
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "zurich",
-    "AccentCity": "Zurich",
-    "Region": 25,
-    "Population": 346185,
-    "Latitude": 47.366667,
-    "Longitude": 8.55,
-    "geopoint": "47.366667,8.55"
+    "Population": 346185
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "geneva",
-    "AccentCity": "Geneva",
-    "Region": 7,
-    "Population": 181492,
-    "Latitude": 46.195602,
-    "Longitude": 6.148113,
-    "geopoint": "46.195602,6.148113"
+    "Population": 181492
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "basel",
-    "AccentCity": "Basel",
-    "Region": 4,
-    "Population": 164474,
-    "Latitude": 47.558395,
-    "Longitude": 7.573271,
-    "geopoint": "47.558395,7.573271"
+    "Population": 164474
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "bern",
-    "AccentCity": "Bern",
-    "Region": 5,
-    "Population": 123018,
-    "Latitude": 46.916667,
-    "Longitude": 7.466667,
-    "geopoint": "46.916667,7.466667"
+    "Population": 123018
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "lausanne",
-    "AccentCity": "Lausanne",
-    "Region": 23,
-    "Population": 118015,
-    "Latitude": 46.533333,
-    "Longitude": 6.666667,
-    "geopoint": "46.533333,6.666667"
+    "Population": 118015
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "winterthur",
-    "AccentCity": "Winterthur",
-    "Region": 25,
-    "Population": 91368,
-    "Latitude": 47.500035,
-    "Longitude": 8.7251,
-    "geopoint": "47.500035,8.7251"
+    "Population": 91368
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "luzern",
-    "AccentCity": "Luzern",
-    "Region": 11,
-    "Population": 57269,
-    "Latitude": 47.083333,
-    "Longitude": 8.266667,
-    "geopoint": "47.083333,8.266667"
+    "Population": 57269
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "biel",
-    "AccentCity": "Biel",
-    "Region": 5,
-    "Population": 49675,
-    "Latitude": 47.141666,
-    "Longitude": 7.257589,
-    "geopoint": "47.141666,7.257589"
+    "Population": 49675
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "thun",
-    "AccentCity": "Thun",
-    "Region": 5,
-    "Population": 41539,
-    "Latitude": 46.751176,
-    "Longitude": 7.621663,
-    "geopoint": "46.751176,7.621663"
+    "Population": 41539
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "la chaux-de-fonds",
-    "AccentCity": "La Chaux-de-Fonds",
-    "Region": 12,
-    "Population": 36971,
-    "Latitude": 47.104417,
-    "Longitude": 6.828892,
-    "geopoint": "47.104417,6.828892"
+    "Population": 36971
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "koniz",
-    "AccentCity": "Koniz",
-    "Region": 5,
-    "Population": 35961,
-    "Latitude": 46.923391,
-    "Longitude": 7.408688,
-    "geopoint": "46.923391,7.408688"
+    "Population": 35961
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "schaffhausen",
-    "AccentCity": "Schaffhausen",
-    "Region": 16,
-    "Population": 34445,
-    "Latitude": 47.697316,
-    "Longitude": 8.634929,
-    "geopoint": "47.697316,8.634929"
+    "Population": 34445
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "fribourg",
-    "AccentCity": "Fribourg",
-    "Region": 6,
-    "Population": 33806,
-    "Latitude": 46.79572,
-    "Longitude": 7.154748,
-    "geopoint": "46.79572,7.154748"
+    "Population": 33806
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "chur",
-    "AccentCity": "Chur",
-    "Region": 9,
-    "Population": 32874,
-    "Latitude": 46.856753,
-    "Longitude": 9.526918,
-    "geopoint": "46.856753,9.526918"
+    "Population": 32874
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "neuchatel",
-    "AccentCity": "Neuchatel",
-    "Region": 12,
-    "Population": 31216,
-    "Latitude": 46.993089,
-    "Longitude": 6.93005,
-    "geopoint": "46.993089,6.93005"
+    "Population": 31216
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "vernier",
-    "AccentCity": "Vernier",
-    "Region": 7,
-    "Population": 29767,
-    "Latitude": 46.217693,
-    "Longitude": 6.08511,
-    "geopoint": "46.217693,6.08511"
+    "Population": 29767
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "uster",
-    "AccentCity": "Uster",
-    "Region": 25,
-    "Population": 29583,
-    "Latitude": 47.351997,
-    "Longitude": 8.713687,
-    "geopoint": "47.351997,8.713687"
+    "Population": 29583
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "sion",
-    "AccentCity": "Sion",
-    "Region": 22,
-    "Population": 28246,
-    "Latitude": 46.229076,
-    "Longitude": 7.359417,
-    "geopoint": "46.229076,7.359417"
+    "Population": 28246
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "emmen",
-    "AccentCity": "Emmen",
-    "Region": 11,
-    "Population": 27290,
-    "Latitude": 47.081101,
-    "Longitude": 8.30477,
-    "geopoint": "47.081101,8.30477"
+    "Population": 27290
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "lugano",
-    "AccentCity": "Lugano",
-    "Region": 20,
-    "Population": 26327,
-    "Latitude": 46.006182,
-    "Longitude": 8.951142,
-    "geopoint": "46.006182,8.951142"
+    "Population": 26327
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "kriens",
-    "AccentCity": "Kriens",
-    "Region": 11,
-    "Population": 26117,
-    "Latitude": 47.035366,
-    "Longitude": 8.276307,
-    "geopoint": "47.035366,8.276307"
+    "Population": 26117
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "zug",
-    "AccentCity": "Zug",
-    "Region": 24,
-    "Population": 24197,
-    "Latitude": 47.172421,
-    "Longitude": 8.517445,
-    "geopoint": "47.172421,8.517445"
+    "Population": 24197
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "yverdon",
-    "AccentCity": "Yverdon",
-    "Region": 23,
-    "Population": 23756,
-    "Latitude": 46.777908,
-    "Longitude": 6.635502,
-    "geopoint": "46.777908,6.635502"
+    "Population": 23756
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "montreux",
-    "AccentCity": "Montreux",
-    "Region": 23,
-    "Population": 23703,
-    "Latitude": 46.433715,
-    "Longitude": 6.913179,
-    "geopoint": "46.433715,6.913179"
+    "Population": 23703
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "dubendorf",
-    "AccentCity": "Dubendorf",
-    "Region": 25,
-    "Population": 23051,
-    "Latitude": 47.395395,
-    "Longitude": 8.618366,
-    "geopoint": "47.395395,8.618366"
+    "Population": 23051
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "frauenfeld",
-    "AccentCity": "Frauenfeld",
-    "Region": 19,
-    "Population": 22639,
-    "Latitude": 47.558159,
-    "Longitude": 8.898544,
-    "geopoint": "47.558159,8.898544"
+    "Population": 22639
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "dietikon",
-    "AccentCity": "Dietikon",
-    "Region": 25,
-    "Population": 22443,
-    "Latitude": 47.404446,
-    "Longitude": 8.394984,
-    "geopoint": "47.404446,8.394984"
+    "Population": 22443
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "baar",
-    "AccentCity": "Baar",
-    "Region": 24,
-    "Population": 20752,
-    "Latitude": 47.196254,
-    "Longitude": 8.529544,
-    "geopoint": "47.196254,8.529544"
+    "Population": 20752
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "meyrin",
-    "AccentCity": "Meyrin",
-    "Region": 7,
-    "Population": 19691,
-    "Latitude": 46.228245,
-    "Longitude": 6.064189,
-    "geopoint": "46.228245,6.064189"
+    "Population": 19691
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "carouge",
-    "AccentCity": "Carouge",
-    "Region": 7,
-    "Population": 19688,
-    "Latitude": 46.186153,
-    "Longitude": 6.13463,
-    "geopoint": "46.186153,6.13463"
+    "Population": 19688
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "wadenswil",
-    "AccentCity": "Wadenswil",
-    "Region": 17,
-    "Population": 19473,
-    "Latitude": 47.228726,
-    "Longitude": 8.670585,
-    "geopoint": "47.228726,8.670585"
+    "Population": 19473
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "wetzikon",
-    "AccentCity": "Wetzikon",
-    "Region": 25,
-    "Population": 19377,
-    "Latitude": 47.325771,
-    "Longitude": 8.795716,
-    "geopoint": "47.325771,8.795716"
+    "Population": 19377
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "allschwil",
-    "AccentCity": "Allschwil",
-    "Region": 4,
-    "Population": 18745,
-    "Latitude": 47.550744,
-    "Longitude": 7.535994,
-    "geopoint": "47.550744,7.535994"
+    "Population": 18745
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "wettingen",
-    "AccentCity": "Wettingen",
-    "Region": 1,
-    "Population": 18509,
-    "Latitude": 47.470495,
-    "Longitude": 8.31636,
-    "geopoint": "47.470495,8.31636"
+    "Population": 18509
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "kloten",
-    "AccentCity": "Kloten",
-    "Region": 25,
-    "Population": 18141,
-    "Latitude": 47.449817,
-    "Longitude": 8.594777,
-    "geopoint": "47.449817,8.594777"
+    "Population": 18141
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "horgen",
-    "AccentCity": "Horgen",
-    "Region": 25,
-    "Population": 18055,
-    "Latitude": 47.255924,
-    "Longitude": 8.598672,
-    "geopoint": "47.255924,8.598672"
+    "Population": 18055
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "jona",
-    "AccentCity": "Jona",
-    "Region": 17,
-    "Population": 17806,
-    "Latitude": 47.230265,
-    "Longitude": 8.841838,
-    "geopoint": "47.230265,8.841838"
+    "Population": 17806
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "renens",
-    "AccentCity": "Renens",
-    "Region": 23,
-    "Population": 17530,
-    "Latitude": 46.539894,
-    "Longitude": 6.588096,
-    "geopoint": "46.539894,6.588096"
+    "Population": 17530
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "gossau",
-    "AccentCity": "Gossau",
-    "Region": 2,
-    "Population": 17268,
-    "Latitude": 47.41694,
-    "Longitude": 9.251252,
-    "geopoint": "47.41694,9.251252"
+    "Population": 17268
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "wil",
-    "AccentCity": "Wil",
-    "Region": 19,
-    "Population": 17234,
-    "Latitude": 47.462147,
-    "Longitude": 9.04289,
-    "geopoint": "47.462147,9.04289"
+    "Population": 17234
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "kreuzlingen",
-    "AccentCity": "Kreuzlingen",
-    "Region": 15,
-    "Population": 17233,
-    "Latitude": 47.648212,
-    "Longitude": 9.180338,
-    "geopoint": "47.648212,9.180338"
+    "Population": 17233
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "nyon",
-    "AccentCity": "Nyon",
-    "Region": 7,
-    "Population": 17071,
-    "Latitude": 46.388848,
-    "Longitude": 6.239319,
-    "geopoint": "46.388848,6.239319"
+    "Population": 17071
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "bellinzona",
-    "AccentCity": "Bellinzona",
-    "Region": 20,
-    "Population": 17006,
-    "Latitude": 46.195201,
-    "Longitude": 9.02283,
-    "geopoint": "46.195201,9.02283"
+    "Population": 17006
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "onex",
-    "AccentCity": "Onex",
-    "Region": 7,
-    "Population": 16796,
-    "Latitude": 46.183909,
-    "Longitude": 6.101809,
-    "geopoint": "46.183909,6.101809"
+    "Population": 16796
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "baden",
-    "AccentCity": "Baden",
-    "Region": 1,
-    "Population": 16659,
-    "Latitude": 47.478029,
-    "Longitude": 8.302764,
-    "geopoint": "47.478029,8.302764"
+    "Population": 16659
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "muttenz",
-    "AccentCity": "Muttenz",
-    "Region": 3,
-    "Population": 16646,
-    "Latitude": 47.525259,
-    "Longitude": 7.644511,
-    "geopoint": "47.525259,7.644511"
+    "Population": 16646
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "pully",
-    "AccentCity": "Pully",
-    "Region": 23,
-    "Population": 16640,
-    "Latitude": 46.510544,
-    "Longitude": 6.656071,
-    "geopoint": "46.510544,6.656071"
+    "Population": 16640
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "olten",
-    "AccentCity": "Olten",
-    "Region": 1,
-    "Population": 16555,
-    "Latitude": 47.357058,
-    "Longitude": 7.909101,
-    "geopoint": "47.357058,7.909101"
+    "Population": 16555
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "littau",
-    "AccentCity": "Littau",
-    "Region": 11,
-    "Population": 16403,
-    "Latitude": 47.050004,
-    "Longitude": 8.262739,
-    "geopoint": "47.050004,8.262739"
+    "Population": 16403
   },
   {
-    "Country": "ch",
+    "Country": "Switzerland",
     "City": "thalwil",
-    "AccentCity": "Thalwil",
-    "Region": 25,
-    "Population": 16389,
-    "Latitude": 47.289515,
-    "Longitude": 8.567546,
-    "geopoint": "47.289515,8.567546"
+    "Population": 16389
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "brussels",
-    "AccentCity": "Brussels",
-    "Region": 11,
-    "Population": 1019022,
-    "Latitude": 50.833333,
-    "Longitude": 4.333333,
-    "geopoint": "50.833333,4.333333"
+    "Population": 1019022
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "antwerp",
-    "AccentCity": "Antwerp",
-    "Region": 1,
-    "Population": 459805,
-    "Latitude": 51.216667,
-    "Longitude": 4.416667,
-    "geopoint": "51.216667,4.416667"
+    "Population": 459805
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "gent",
-    "AccentCity": "Gent",
-    "Region": 8,
-    "Population": 231493,
-    "Latitude": 51.05,
-    "Longitude": 3.716667,
-    "geopoint": "51.05,3.716667"
+    "Population": 231493
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "charleroi",
-    "AccentCity": "Charleroi",
-    "Region": 3,
-    "Population": 200132,
-    "Latitude": 50.416667,
-    "Longitude": 4.433333,
-    "geopoint": "50.416667,4.433333"
+    "Population": 200132
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "liege",
-    "AccentCity": "Liège",
-    "Region": 4,
-    "Population": 182597,
-    "Latitude": 50.633333,
-    "Longitude": 5.566667,
-    "geopoint": "50.633333,5.566667"
+    "Population": 182597
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "brugge",
-    "AccentCity": "Brugge",
-    "Region": 9,
-    "Population": 116709,
-    "Latitude": 51.216667,
-    "Longitude": 3.233333,
-    "geopoint": "51.216667,3.233333"
+    "Population": 116709
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "namur",
-    "AccentCity": "Namur",
-    "Region": 7,
-    "Population": 106284,
-    "Latitude": 50.466667,
-    "Longitude": 4.866667,
-    "geopoint": "50.466667,4.866667"
+    "Population": 106284
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "leuven",
-    "AccentCity": "Leuven",
-    "Region": 12,
-    "Population": 92892,
-    "Latitude": 50.883333,
-    "Longitude": 4.7,
-    "geopoint": "50.883333,4.7"
+    "Population": 92892
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "mons",
-    "AccentCity": "Mons",
-    "Region": 3,
-    "Population": 91277,
-    "Latitude": 50.45,
-    "Longitude": 3.933333,
-    "geopoint": "50.45,3.933333"
+    "Population": 91277
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "aalst",
-    "AccentCity": "Aalst",
-    "Region": 8,
-    "Population": 77534,
-    "Latitude": 50.933333,
-    "Longitude": 4.033333,
-    "geopoint": "50.933333,4.033333"
+    "Population": 77534
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "mechelen",
-    "AccentCity": "Mechelen",
-    "Region": 1,
-    "Population": 77531,
-    "Latitude": 51.033333,
-    "Longitude": 4.466667,
-    "geopoint": "51.033333,4.466667"
+    "Population": 77531
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "la louviere",
-    "AccentCity": "La Louvière",
-    "Region": 3,
-    "Population": 76668,
-    "Latitude": 50.466667,
-    "Longitude": 4.183333,
-    "geopoint": "50.466667,4.183333"
+    "Population": 76668
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "kortrijk",
-    "AccentCity": "Kortrijk",
-    "Region": 9,
-    "Population": 73879,
-    "Latitude": 50.833333,
-    "Longitude": 3.266667,
-    "geopoint": "50.833333,3.266667"
+    "Population": 73879
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "hasselt",
-    "AccentCity": "Hasselt",
-    "Region": 5,
-    "Population": 69222,
-    "Latitude": 50.933333,
-    "Longitude": 5.333333,
-    "geopoint": "50.933333,5.333333"
+    "Population": 69222
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "ostend",
-    "AccentCity": "Ostend",
-    "Region": 9,
-    "Population": 69011,
-    "Latitude": 51.216667,
-    "Longitude": 2.916667,
-    "geopoint": "51.216667,2.916667"
+    "Population": 69011
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "sint-niklaas",
-    "AccentCity": "Sint-Niklaas",
-    "Region": 8,
-    "Population": 69010,
-    "Latitude": 51.166667,
-    "Longitude": 4.133333,
-    "geopoint": "51.166667,4.133333"
+    "Population": 69010
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "tournai",
-    "AccentCity": "Tournai",
-    "Region": 3,
-    "Population": 67720,
-    "Latitude": 50.6,
-    "Longitude": 3.383333,
-    "geopoint": "50.6,3.383333"
+    "Population": 67720
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "genk",
-    "AccentCity": "Genk",
-    "Region": 5,
-    "Population": 63666,
-    "Latitude": 50.966667,
-    "Longitude": 5.5,
-    "geopoint": "50.966667,5.5"
+    "Population": 63666
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "seraing",
-    "AccentCity": "Seraing",
-    "Region": 4,
-    "Population": 60737,
-    "Latitude": 50.6,
-    "Longitude": 5.483333,
-    "geopoint": "50.6,5.483333"
+    "Population": 60737
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "roeselare",
-    "AccentCity": "Roeselare",
-    "Region": 9,
-    "Population": 56016,
-    "Latitude": 50.95,
-    "Longitude": 3.133333,
-    "geopoint": "50.95,3.133333"
+    "Population": 56016
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "verviers",
-    "AccentCity": "Verviers",
-    "Region": 4,
-    "Population": 52824,
-    "Latitude": 50.583333,
-    "Longitude": 5.866667,
-    "geopoint": "50.583333,5.866667"
+    "Population": 52824
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "mouscron",
-    "AccentCity": "Mouscron",
-    "Region": 3,
-    "Population": 52069,
-    "Latitude": 50.733333,
-    "Longitude": 3.216667,
-    "geopoint": "50.733333,3.216667"
+    "Population": 52069
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "beveren",
-    "AccentCity": "Beveren",
-    "Region": 8,
-    "Population": 45179,
-    "Latitude": 51.216667,
-    "Longitude": 4.25,
-    "geopoint": "51.216667,4.25"
+    "Population": 45179
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "dendermonde",
-    "AccentCity": "Dendermonde",
-    "Region": 8,
-    "Population": 43055,
-    "Latitude": 51.033333,
-    "Longitude": 4.116667,
-    "geopoint": "51.033333,4.116667"
+    "Population": 43055
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "beringen",
-    "AccentCity": "Beringen",
-    "Region": 5,
-    "Population": 40930,
-    "Latitude": 51.05,
-    "Longitude": 5.216667,
-    "geopoint": "51.05,5.216667"
+    "Population": 40930
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "turnhout",
-    "AccentCity": "Turnhout",
-    "Region": 1,
-    "Population": 39654,
-    "Latitude": 51.316667,
-    "Longitude": 4.95,
-    "geopoint": "51.316667,4.95"
+    "Population": 39654
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "dilbeek",
-    "AccentCity": "Dilbeek",
-    "Region": 2,
-    "Population": 39482,
-    "Latitude": 50.85,
-    "Longitude": 4.266667,
-    "geopoint": "50.85,4.266667"
+    "Population": 39482
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "heist-op-den-berg",
-    "AccentCity": "Heist-op-den-Berg",
-    "Region": 1,
-    "Population": 37873,
-    "Latitude": 51.083333,
-    "Longitude": 4.716667,
-    "geopoint": "51.083333,4.716667"
+    "Population": 37873
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "sint-truiden",
-    "AccentCity": "Sint-Truiden",
-    "Region": 5,
-    "Population": 37859,
-    "Latitude": 50.8,
-    "Longitude": 5.2,
-    "geopoint": "50.8,5.2"
+    "Population": 37859
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "lokeren",
-    "AccentCity": "Lokeren",
-    "Region": 8,
-    "Population": 37567,
-    "Latitude": 51.1,
-    "Longitude": 3.983333,
-    "geopoint": "51.1,3.983333"
+    "Population": 37567
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "brasschaat",
-    "AccentCity": "Brasschaat",
-    "Region": 1,
-    "Population": 37040,
-    "Latitude": 51.283333,
-    "Longitude": 4.45,
-    "geopoint": "51.283333,4.45"
+    "Population": 37040
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "vilvoorde",
-    "AccentCity": "Vilvoorde",
-    "Region": 2,
-    "Population": 36955,
-    "Latitude": 50.933333,
-    "Longitude": 4.433333,
-    "geopoint": "50.933333,4.433333"
+    "Population": 36955
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "herstal",
-    "AccentCity": "Herstal",
-    "Region": 4,
-    "Population": 36503,
-    "Latitude": 50.666667,
-    "Longitude": 5.633333,
-    "geopoint": "50.666667,5.633333"
+    "Population": 36503
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "maasmechelen",
-    "AccentCity": "Maasmechelen",
-    "Region": 5,
-    "Population": 36251,
-    "Latitude": 50.816667,
-    "Longitude": 5.666667,
-    "geopoint": "50.816667,5.666667"
+    "Population": 36251
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "waregem",
-    "AccentCity": "Waregem",
-    "Region": 9,
-    "Population": 35896,
-    "Latitude": 50.883333,
-    "Longitude": 3.416667,
-    "geopoint": "50.883333,3.416667"
+    "Population": 35896
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "chatelet",
-    "AccentCity": "Châtelet",
-    "Region": 3,
-    "Population": 35238,
-    "Latitude": 50.4,
-    "Longitude": 4.516667,
-    "geopoint": "50.4,4.516667"
+    "Population": 35238
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "ieper",
-    "AccentCity": "Ieper",
-    "Region": 9,
-    "Population": 35089,
-    "Latitude": 50.85,
-    "Longitude": 2.883333,
-    "geopoint": "50.85,2.883333"
+    "Population": 35089
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "ninove",
-    "AccentCity": "Ninove",
-    "Region": 8,
-    "Population": 34795,
-    "Latitude": 50.833333,
-    "Longitude": 4.016667,
-    "geopoint": "50.833333,4.016667"
+    "Population": 34795
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "geel",
-    "AccentCity": "Geel",
-    "Region": 1,
-    "Population": 34697,
-    "Latitude": 51.166667,
-    "Longitude": 5,
-    "geopoint": "51.166667,5.0"
+    "Population": 34697
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "halle",
-    "AccentCity": "Halle",
-    "Region": 2,
-    "Population": 34479,
-    "Latitude": 50.733333,
-    "Longitude": 4.233333,
-    "geopoint": "50.733333,4.233333"
+    "Population": 34479
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "knokke-heist",
-    "AccentCity": "Knokke-Heist",
-    "Region": 9,
-    "Population": 33781,
-    "Latitude": 51.35,
-    "Longitude": 3.266667,
-    "geopoint": "51.35,3.266667"
+    "Population": 33781
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "schoten",
-    "AccentCity": "Schoten",
-    "Region": 1,
-    "Population": 33622,
-    "Latitude": 51.25,
-    "Longitude": 4.5,
-    "geopoint": "51.25,4.5"
+    "Population": 33622
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "grimbergen",
-    "AccentCity": "Grimbergen",
-    "Region": 2,
-    "Population": 33561,
-    "Latitude": 50.933333,
-    "Longitude": 4.383333,
-    "geopoint": "50.933333,4.383333"
+    "Population": 33561
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "mol",
-    "AccentCity": "Mol",
-    "Region": 1,
-    "Population": 32659,
-    "Latitude": 51.183333,
-    "Longitude": 5.1,
-    "geopoint": "51.183333,5.1"
+    "Population": 32659
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "wavre",
-    "AccentCity": "Wavre",
-    "Region": 10,
-    "Population": 32112,
-    "Latitude": 50.716667,
-    "Longitude": 4.616667,
-    "geopoint": "50.716667,4.616667"
+    "Population": 32112
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "binche",
-    "AccentCity": "Binche",
-    "Region": 3,
-    "Population": 32030,
-    "Latitude": 50.4,
-    "Longitude": 4.166667,
-    "geopoint": "50.4,4.166667"
+    "Population": 32030
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "lommel",
-    "AccentCity": "Lommel",
-    "Region": 5,
-    "Population": 31993,
-    "Latitude": 51.233333,
-    "Longitude": 5.3,
-    "geopoint": "51.233333,5.3"
+    "Population": 31993
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "menen",
-    "AccentCity": "Menen",
-    "Region": 9,
-    "Population": 31916,
-    "Latitude": 50.8,
-    "Longitude": 3.116667,
-    "geopoint": "50.8,3.116667"
+    "Population": 31916
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "tienen",
-    "AccentCity": "Tienen",
-    "Region": 2,
-    "Population": 31743,
-    "Latitude": 50.8,
-    "Longitude": 4.95,
-    "geopoint": "50.8,4.95"
+    "Population": 31743
   },
   {
-    "Country": "be",
+    "Country": "Belgium",
     "City": "evergem",
-    "AccentCity": "Evergem",
-    "Region": 8,
-    "Population": 31615,
-    "Latitude": 51.116667,
-    "Longitude": 3.7,
-    "geopoint": "51.116667,3.7"
+    "Population": 31615
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "madrid",
-    "AccentCity": "Madrid",
-    "Region": 29,
-    "Population": 3102644,
-    "Latitude": 40.408566,
-    "Longitude": -3.69222,
-    "geopoint": "40.408566,-3.69222"
+    "Population": 3102644
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "barcelona",
-    "AccentCity": "Barcelona",
-    "Region": 56,
-    "Population": 1570378,
-    "Latitude": 41.398371,
-    "Longitude": 2.1741,
-    "geopoint": "41.398371,2.1741"
+    "Population": 1570378
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "valencia",
-    "AccentCity": "Valencia",
-    "Region": 60,
-    "Population": 769897,
-    "Latitude": 39.466667,
-    "Longitude": -0.366667,
-    "geopoint": "39.466667,-0.366667"
+    "Population": 769897
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "sevilla",
-    "AccentCity": "Sevilla",
-    "Region": 51,
-    "Population": 686647,
-    "Latitude": 37.382408,
-    "Longitude": -5.976133,
-    "geopoint": "37.382408,-5.976133"
+    "Population": 686647
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "zaragoza",
-    "AccentCity": "Zaragoza",
-    "Region": 52,
-    "Population": 635509,
-    "Latitude": 41.64531,
-    "Longitude": -0.884861,
-    "geopoint": "41.64531,-0.884861"
+    "Population": 635509
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "malaga",
-    "AccentCity": "Málaga",
-    "Region": 51,
-    "Population": 557875,
-    "Latitude": 36.726666,
-    "Longitude": -4.434802,
-    "geopoint": "36.726666,-4.434802"
+    "Population": 557875
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "murcia",
-    "AccentCity": "Murcia",
-    "Region": 31,
-    "Population": 410364,
-    "Latitude": 37.987041,
-    "Longitude": -1.130042,
-    "geopoint": "37.987041,-1.130042"
+    "Population": 410364
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "palma",
-    "AccentCity": "Palma",
-    "Region": 7,
-    "Population": 378884,
-    "Latitude": 39.574337,
-    "Longitude": 2.655222,
-    "geopoint": "39.574337,2.655222"
+    "Population": 378884
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "las palmas",
-    "AccentCity": "Las Palmas",
-    "Region": 53,
-    "Population": 365418,
-    "Latitude": 28.099727,
-    "Longitude": -15.41343,
-    "geopoint": "28.099727,-15.41343"
+    "Population": 365418
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "bilbao",
-    "AccentCity": "Bilbao",
-    "Region": 59,
-    "Population": 349270,
-    "Latitude": 43.260919,
-    "Longitude": -2.938764,
-    "geopoint": "43.260919,-2.938764"
+    "Population": 349270
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "valladolid",
-    "AccentCity": "Valladolid",
-    "Region": 55,
-    "Population": 315859,
-    "Latitude": 41.655181,
-    "Longitude": -4.72372,
-    "geopoint": "41.655181,-4.72372"
+    "Population": 315859
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "cordoba",
-    "AccentCity": "Córdoba",
-    "Region": 51,
-    "Population": 311186,
-    "Latitude": 37.89155,
-    "Longitude": -4.772748,
-    "geopoint": "37.89155,-4.772748"
+    "Population": 311186
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "vigo",
-    "AccentCity": "Vigo",
-    "Region": 58,
-    "Population": 286585,
-    "Latitude": 42.232823,
-    "Longitude": -8.722637,
-    "geopoint": "42.232823,-8.722637"
+    "Population": 286585
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "gijon",
-    "AccentCity": "Gijón",
-    "Region": 34,
-    "Population": 262573,
-    "Latitude": 43.535731,
-    "Longitude": -5.661519,
-    "geopoint": "43.535731,-5.661519"
+    "Population": 262573
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "granada",
-    "AccentCity": "Granada",
-    "Region": 51,
-    "Population": 248942,
-    "Latitude": 37.178354,
-    "Longitude": -3.599201,
-    "geopoint": "37.178354,-3.599201"
+    "Population": 248942
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "a coruna",
-    "AccentCity": "A Coruña",
-    "Region": 58,
-    "Population": 236010,
-    "Latitude": 43.366609,
-    "Longitude": -8.406812,
-    "geopoint": "43.366609,-8.406812"
+    "Population": 236010
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "vitoria",
-    "AccentCity": "Vitoria",
-    "Region": 59,
-    "Population": 224774,
-    "Latitude": 42.85,
-    "Longitude": -2.666667,
-    "geopoint": "42.85,-2.666667"
+    "Population": 224774
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "badalona",
-    "AccentCity": "Badalona",
-    "Region": 56,
-    "Population": 222413,
-    "Latitude": 41.447145,
-    "Longitude": 2.244789,
-    "geopoint": "41.447145,2.244789"
+    "Population": 222413
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "mostoles",
-    "AccentCity": "Móstoles",
-    "Region": 29,
-    "Population": 212504,
-    "Latitude": 40.320923,
-    "Longitude": -3.862849,
-    "geopoint": "40.320923,-3.862849"
+    "Population": 212504
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "fuenlabrada",
-    "AccentCity": "Fuenlabrada",
-    "Region": 29,
-    "Population": 202088,
-    "Latitude": 40.284189,
-    "Longitude": -3.794147,
-    "geopoint": "40.284189,-3.794147"
+    "Population": 202088
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "cartagena",
-    "AccentCity": "Cartagena",
-    "Region": 31,
-    "Population": 201977,
-    "Latitude": 37.605121,
-    "Longitude": -0.986232,
-    "geopoint": "37.605121,-0.986232"
+    "Population": 201977
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "sabadell",
-    "AccentCity": "Sabadell",
-    "Region": 56,
-    "Population": 198589,
-    "Latitude": 41.54329,
-    "Longitude": 2.109423,
-    "geopoint": "41.54329,2.109423"
+    "Population": 198589
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "oviedo",
-    "AccentCity": "Oviedo",
-    "Region": 34,
-    "Population": 198250,
-    "Latitude": 43.363223,
-    "Longitude": -5.853128,
-    "geopoint": "43.363223,-5.853128"
+    "Population": 198250
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "alcala de henares",
-    "AccentCity": "Alcalá de Henares",
-    "Region": 29,
-    "Population": 195152,
-    "Latitude": 40.482048,
-    "Longitude": -3.359957,
-    "geopoint": "40.482048,-3.359957"
+    "Population": 195152
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "santa cruz de tenerife",
-    "AccentCity": "Santa Cruz de Tenerife",
-    "Region": 53,
-    "Population": 193852,
-    "Latitude": 28.460238,
-    "Longitude": -16.280616,
-    "geopoint": "28.460238,-16.280616"
+    "Population": 193852
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "leganes",
-    "AccentCity": "Leganés",
-    "Region": 29,
-    "Population": 192000,
-    "Latitude": 40.326946,
-    "Longitude": -3.760422,
-    "geopoint": "40.326946,-3.760422"
+    "Population": 192000
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "pamplona",
-    "AccentCity": "Pamplona",
-    "Region": 32,
-    "Population": 191549,
-    "Latitude": 42.814075,
-    "Longitude": -1.641153,
-    "geopoint": "42.814075,-1.641153"
+    "Population": 191549
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "jerez",
-    "AccentCity": "Jerez",
-    "Region": 51,
-    "Population": 189230,
-    "Latitude": 36.686454,
-    "Longitude": -6.136063,
-    "geopoint": "36.686454,-6.136063"
+    "Population": 189230
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "terrassa",
-    "AccentCity": "Terrassa",
-    "Region": 56,
-    "Population": 187770,
-    "Latitude": 41.561111,
-    "Longitude": 2.008056,
-    "geopoint": "41.561111,2.008056"
+    "Population": 187770
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "santander",
-    "AccentCity": "Santander",
-    "Region": 39,
-    "Population": 185209,
-    "Latitude": 43.464722,
-    "Longitude": -3.804444,
-    "geopoint": "43.464722,-3.804444"
+    "Population": 185209
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "almeria",
-    "AccentCity": "Almería",
-    "Region": 51,
-    "Population": 181497,
-    "Latitude": 36.833333,
-    "Longitude": -2.45,
-    "geopoint": "36.833333,-2.45"
+    "Population": 181497
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "alcorcon",
-    "AccentCity": "Alcorcón",
-    "Region": 29,
-    "Population": 169343,
-    "Latitude": 40.346467,
-    "Longitude": -3.812453,
-    "geopoint": "40.346467,-3.812453"
+    "Population": 169343
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "burgos",
-    "AccentCity": "Burgos",
-    "Region": 55,
-    "Population": 168319,
-    "Latitude": 42.350221,
-    "Longitude": -3.675273,
-    "geopoint": "42.350221,-3.675273"
+    "Population": 168319
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "getafe",
-    "AccentCity": "Getafe",
-    "Region": 29,
-    "Population": 167550,
-    "Latitude": 40.308423,
-    "Longitude": -3.70596,
-    "geopoint": "40.308423,-3.70596"
+    "Population": 167550
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "salamanca",
-    "AccentCity": "Salamanca",
-    "Region": 55,
-    "Population": 155175,
-    "Latitude": 40.9681,
-    "Longitude": -5.66202,
-    "geopoint": "40.9681,-5.66202"
+    "Population": 155175
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "albacete",
-    "AccentCity": "Albacete",
-    "Region": 54,
-    "Population": 155083,
-    "Latitude": 38.995845,
-    "Longitude": -1.857773,
-    "geopoint": "38.995845,-1.857773"
+    "Population": 155083
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "huelva",
-    "AccentCity": "Huelva",
-    "Region": 51,
-    "Population": 145901,
-    "Latitude": 37.271447,
-    "Longitude": -6.949464,
-    "geopoint": "37.271447,-6.949464"
+    "Population": 145901
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "logrono",
-    "AccentCity": "Logroño",
-    "Region": 27,
-    "Population": 142103,
-    "Latitude": 42.466667,
-    "Longitude": -2.45,
-    "geopoint": "42.466667,-2.45"
+    "Population": 142103
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "cadiz",
-    "AccentCity": "Cadiz",
-    "Region": 51,
-    "Population": 137698,
-    "Latitude": 36.515789,
-    "Longitude": -6.279692,
-    "geopoint": "36.515789,-6.279692"
+    "Population": 137698
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "badajoz",
-    "AccentCity": "Badajoz",
-    "Region": 57,
-    "Population": 133042,
-    "Latitude": 38.877894,
-    "Longitude": -6.970613,
-    "geopoint": "38.877894,-6.970613"
+    "Population": 133042
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "tarragona",
-    "AccentCity": "Tarragona",
-    "Region": 56,
-    "Population": 128391,
-    "Latitude": 41.116667,
-    "Longitude": 1.25,
-    "geopoint": "41.116667,1.25"
+    "Population": 128391
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "leon",
-    "AccentCity": "León",
-    "Region": 55,
-    "Population": 127480,
-    "Latitude": 42.600031,
-    "Longitude": -5.570316,
-    "geopoint": "42.600031,-5.570316"
+    "Population": 127480
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "lleida",
-    "AccentCity": "Lleida",
-    "Region": 56,
-    "Population": 119320,
-    "Latitude": 41.616667,
-    "Longitude": 0.633333,
-    "geopoint": "41.616667,0.633333"
+    "Population": 119320
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "jaen",
-    "AccentCity": "Jaén",
-    "Region": 51,
-    "Population": 116291,
-    "Latitude": 37.772404,
-    "Longitude": -3.79013,
-    "geopoint": "37.772404,-3.79013"
+    "Population": 116291
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "marbella",
-    "AccentCity": "Marbella",
-    "Region": 51,
-    "Population": 115484,
-    "Latitude": 36.510485,
-    "Longitude": -4.885745,
-    "geopoint": "36.510485,-4.885745"
+    "Population": 115484
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "mataro",
-    "AccentCity": "Mataró",
-    "Region": 56,
-    "Population": 114923,
-    "Latitude": 41.542113,
-    "Longitude": 2.444503,
-    "geopoint": "41.542113,2.444503"
+    "Population": 114923
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "torrejon de ardoz",
-    "AccentCity": "Torrejón de Ardoz",
-    "Region": 29,
-    "Population": 111998,
-    "Latitude": 40.455354,
-    "Longitude": -3.469734,
-    "geopoint": "40.455354,-3.469734"
+    "Population": 111998
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "algeciras",
-    "AccentCity": "Algeciras",
-    "Region": 51,
-    "Population": 104766,
-    "Latitude": 36.133257,
-    "Longitude": -5.450511,
-    "geopoint": "36.133257,-5.450511"
+    "Population": 104766
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "dos hermanas",
-    "AccentCity": "Dos Hermanas",
-    "Region": 51,
-    "Population": 104666,
-    "Latitude": 37.282867,
-    "Longitude": -5.920884,
-    "geopoint": "37.282867,-5.920884"
+    "Population": 104666
   },
   {
-    "Country": "es",
+    "Country": "Spain",
     "City": "alcobendas",
-    "AccentCity": "Alcobendas",
-    "Region": 29,
-    "Population": 101860,
-    "Latitude": 40.543933,
-    "Longitude": -3.635688,
-    "geopoint": "40.543933,-3.635688"
+    "Population": 101860
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "rome",
-    "AccentCity": "Rome",
-    "Region": 7,
-    "Population": 2643736,
-    "Latitude": 41.9,
-    "Longitude": 12.483333,
-    "geopoint": "41.9,12.483333"
+    "Population": 2643736
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "milan",
-    "AccentCity": "Milan",
-    "Region": 9,
-    "Population": 1156903,
-    "Latitude": 45.466667,
-    "Longitude": 9.2,
-    "geopoint": "45.466667,9.2"
+    "Population": 1156903
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "naples",
-    "AccentCity": "Naples",
-    "Region": 4,
-    "Population": 981284,
-    "Latitude": 40.833333,
-    "Longitude": 14.25,
-    "geopoint": "40.833333,14.25"
+    "Population": 981284
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "turin",
-    "AccentCity": "Turin",
-    "Region": 12,
-    "Population": 846489,
-    "Latitude": 45.05,
-    "Longitude": 7.666667,
-    "geopoint": "45.05,7.666667"
+    "Population": 846489
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "palermo",
-    "AccentCity": "Palermo",
-    "Region": 15,
-    "Population": 669582,
-    "Latitude": 38.116667,
-    "Longitude": 13.366667,
-    "geopoint": "38.116667,13.366667"
+    "Population": 669582
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "genoa",
-    "AccentCity": "Genoa",
-    "Region": 8,
-    "Population": 585815,
-    "Latitude": 44.416667,
-    "Longitude": 8.95,
-    "geopoint": "44.416667,8.95"
+    "Population": 585815
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "bologna",
-    "AccentCity": "Bologna",
-    "Region": 5,
-    "Population": 367168,
-    "Latitude": 44.483333,
-    "Longitude": 11.333333,
-    "geopoint": "44.483333,11.333333"
+    "Population": 367168
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "florence",
-    "AccentCity": "Florence",
-    "Region": 16,
-    "Population": 347194,
-    "Latitude": 43.766667,
-    "Longitude": 11.25,
-    "geopoint": "43.766667,11.25"
+    "Population": 347194
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "catania",
-    "AccentCity": "Catania",
-    "Region": 15,
-    "Population": 307331,
-    "Latitude": 37.5,
-    "Longitude": 15.1,
-    "geopoint": "37.5,15.1"
+    "Population": 307331
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "bari",
-    "AccentCity": "Bari",
-    "Region": 13,
-    "Population": 303049,
-    "Latitude": 41.133333,
-    "Longitude": 16.85,
-    "geopoint": "41.133333,16.85"
+    "Population": 303049
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "venice",
-    "AccentCity": "Venice",
-    "Region": 20,
-    "Population": 259126,
-    "Latitude": 45.438611,
-    "Longitude": 12.326667,
-    "geopoint": "45.438611,12.326667"
+    "Population": 259126
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "verona",
-    "AccentCity": "Verona",
-    "Region": 20,
-    "Population": 247082,
-    "Latitude": 45.45,
-    "Longitude": 11,
-    "geopoint": "45.45,11.0"
+    "Population": 247082
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "messina",
-    "AccentCity": "Messina",
-    "Region": 15,
-    "Population": 237956,
-    "Latitude": 38.183333,
-    "Longitude": 15.566667,
-    "geopoint": "38.183333,15.566667"
+    "Population": 237956
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "padova",
-    "AccentCity": "Padova",
-    "Region": 20,
-    "Population": 205247,
-    "Latitude": 45.416667,
-    "Longitude": 11.883333,
-    "geopoint": "45.416667,11.883333"
+    "Population": 205247
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "trieste",
-    "AccentCity": "Trieste",
-    "Region": 6,
-    "Population": 204379,
-    "Latitude": 45.648611,
-    "Longitude": 13.78,
-    "geopoint": "45.648611,13.78"
+    "Population": 204379
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "brescia",
-    "AccentCity": "Brescia",
-    "Region": 9,
-    "Population": 193713,
-    "Latitude": 45.55,
-    "Longitude": 10.25,
-    "geopoint": "45.55,10.25"
+    "Population": 193713
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "taranto",
-    "AccentCity": "Taranto",
-    "Region": 13,
-    "Population": 191364,
-    "Latitude": 40.476111,
-    "Longitude": 17.229722,
-    "geopoint": "40.476111,17.229722"
+    "Population": 191364
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "reggio di calabria",
-    "AccentCity": "Reggio di Calabria",
-    "Region": 3,
-    "Population": 181990,
-    "Latitude": 38.1,
-    "Longitude": 15.65,
-    "geopoint": "38.1,15.65"
+    "Population": 181990
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "modena",
-    "AccentCity": "Modena",
-    "Region": 5,
-    "Population": 180641,
-    "Latitude": 44.666667,
-    "Longitude": 10.916667,
-    "geopoint": "44.666667,10.916667"
+    "Population": 180641
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "prato",
-    "AccentCity": "Prato",
-    "Region": 16,
-    "Population": 178915,
-    "Latitude": 43.883333,
-    "Longitude": 11.1,
-    "geopoint": "43.883333,11.1"
+    "Population": 178915
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "cagliari",
-    "AccentCity": "Cagliari",
-    "Region": 14,
-    "Population": 157343,
-    "Latitude": 39.216667,
-    "Longitude": 9.116667,
-    "geopoint": "39.216667,9.116667"
+    "Population": 157343
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "perugia",
-    "AccentCity": "Perugia",
-    "Region": 18,
-    "Population": 157077,
-    "Latitude": 43.133333,
-    "Longitude": 12.366667,
-    "geopoint": "43.133333,12.366667"
+    "Population": 157077
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "parma",
-    "AccentCity": "Parma",
-    "Region": 5,
-    "Population": 155693,
-    "Latitude": 44.8,
-    "Longitude": 10.333333,
-    "geopoint": "44.8,10.333333"
+    "Population": 155693
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "leghorn",
-    "AccentCity": "Leghorn",
-    "Region": 16,
-    "Population": 146762,
-    "Latitude": 43.55,
-    "Longitude": 10.316667,
-    "geopoint": "43.55,10.316667"
+    "Population": 146762
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "salerno",
-    "AccentCity": "Salerno",
-    "Region": 4,
-    "Population": 144147,
-    "Latitude": 40.683333,
-    "Longitude": 14.783333,
-    "geopoint": "40.683333,14.783333"
+    "Population": 144147
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "foggia",
-    "AccentCity": "Foggia",
-    "Region": 13,
-    "Population": 143826,
-    "Latitude": 41.45,
-    "Longitude": 15.566667,
-    "geopoint": "41.45,15.566667"
+    "Population": 143826
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "ravenna",
-    "AccentCity": "Ravenna",
-    "Region": 5,
-    "Population": 143396,
-    "Latitude": 44.4175,
-    "Longitude": 12.201111,
-    "geopoint": "44.4175,12.201111"
+    "Population": 143396
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "rimini",
-    "AccentCity": "Rimini",
-    "Region": 5,
-    "Population": 132031,
-    "Latitude": 44.063333,
-    "Longitude": 12.580833,
-    "geopoint": "44.063333,12.580833"
+    "Population": 132031
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "ferrara",
-    "AccentCity": "Ferrara",
-    "Region": 5,
-    "Population": 131252,
-    "Latitude": 44.833333,
-    "Longitude": 11.583333,
-    "geopoint": "44.833333,11.583333"
+    "Population": 131252
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "syracuse",
-    "AccentCity": "Syracuse",
-    "Region": 15,
-    "Population": 127666,
-    "Latitude": 37.066667,
-    "Longitude": 15.3,
-    "geopoint": "37.066667,15.3"
+    "Population": 127666
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "latina",
-    "AccentCity": "Latina",
-    "Region": 7,
-    "Population": 124330,
-    "Latitude": 41.466667,
-    "Longitude": 12.866667,
-    "geopoint": "41.466667,12.866667"
+    "Population": 124330
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "monza",
-    "AccentCity": "Monza",
-    "Region": 9,
-    "Population": 120857,
-    "Latitude": 45.583333,
-    "Longitude": 9.266667,
-    "geopoint": "45.583333,9.266667"
+    "Population": 120857
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "sassari",
-    "AccentCity": "Sassari",
-    "Region": 14,
-    "Population": 119187,
-    "Latitude": 40.727222,
-    "Longitude": 8.560278,
-    "geopoint": "40.727222,8.560278"
+    "Population": 119187
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "pescara",
-    "AccentCity": "Pescara",
-    "Region": 1,
-    "Population": 118136,
-    "Latitude": 42.466667,
-    "Longitude": 14.216667,
-    "geopoint": "42.466667,14.216667"
+    "Population": 118136
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "bergamo",
-    "AccentCity": "Bergamo",
-    "Region": 9,
-    "Population": 113603,
-    "Latitude": 45.683333,
-    "Longitude": 9.716667,
-    "geopoint": "45.683333,9.716667"
+    "Population": 113603
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "forli",
-    "AccentCity": "Forlì",
-    "Region": 5,
-    "Population": 111574,
-    "Latitude": 44.223611,
-    "Longitude": 12.052778,
-    "geopoint": "44.223611,12.052778"
+    "Population": 111574
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "vicenza",
-    "AccentCity": "Vicenza",
-    "Region": 20,
-    "Population": 108636,
-    "Latitude": 45.55,
-    "Longitude": 11.55,
-    "geopoint": "45.55,11.55"
+    "Population": 108636
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "terni",
-    "AccentCity": "Terni",
-    "Region": 18,
-    "Population": 108006,
-    "Latitude": 42.566667,
-    "Longitude": 12.616667,
-    "geopoint": "42.566667,12.616667"
+    "Population": 108006
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "giugliano in campania",
-    "AccentCity": "Giugliano in Campania",
-    "Region": 4,
-    "Population": 107680,
-    "Latitude": 40.933333,
-    "Longitude": 14.2,
-    "geopoint": "40.933333,14.2"
+    "Population": 107680
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "trento",
-    "AccentCity": "Trento",
-    "Region": 17,
-    "Population": 106703,
-    "Latitude": 46.066667,
-    "Longitude": 11.133333,
-    "geopoint": "46.066667,11.133333"
+    "Population": 106703
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "novara",
-    "AccentCity": "Novara",
-    "Region": 12,
-    "Population": 105903,
-    "Latitude": 45.466667,
-    "Longitude": 8.633333,
-    "geopoint": "45.466667,8.633333"
+    "Population": 105903
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "ancona",
-    "AccentCity": "Ancona",
-    "Region": 10,
-    "Population": 100982,
-    "Latitude": 43.633333,
-    "Longitude": 13.5,
-    "geopoint": "43.633333,13.5"
+    "Population": 100982
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "piacenza",
-    "AccentCity": "Piacenza",
-    "Region": 5,
-    "Population": 95453,
-    "Latitude": 45.016667,
-    "Longitude": 9.666667,
-    "geopoint": "45.016667,9.666667"
+    "Population": 95453
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "arezzo",
-    "AccentCity": "Arezzo",
-    "Region": 16,
-    "Population": 95233,
-    "Latitude": 43.416667,
-    "Longitude": 11.883333,
-    "geopoint": "43.416667,11.883333"
+    "Population": 95233
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "udine",
-    "AccentCity": "Udine",
-    "Region": 6,
-    "Population": 94597,
-    "Latitude": 46.061944,
-    "Longitude": 13.242222,
-    "geopoint": "46.061944,13.242222"
+    "Population": 94597
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "andria",
-    "AccentCity": "Andria",
-    "Region": 13,
-    "Population": 93819,
-    "Latitude": 41.216667,
-    "Longitude": 16.283333,
-    "geopoint": "41.216667,16.283333"
+    "Population": 93819
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "barletta",
-    "AccentCity": "Barletta",
-    "Region": 13,
-    "Population": 92650,
-    "Latitude": 41.316667,
-    "Longitude": 16.283333,
-    "geopoint": "41.316667,16.283333"
+    "Population": 92650
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "brindisi",
-    "AccentCity": "Brindisi",
-    "Region": 13,
-    "Population": 92457,
-    "Latitude": 40.633333,
-    "Longitude": 17.933333,
-    "geopoint": "40.633333,17.933333"
+    "Population": 92457
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "cesena",
-    "AccentCity": "Cesena",
-    "Region": 5,
-    "Population": 92280,
-    "Latitude": 44.143333,
-    "Longitude": 12.249722,
-    "geopoint": "44.143333,12.249722"
+    "Population": 92280
   },
   {
-    "Country": "it",
+    "Country": "Italy",
     "City": "pesaro",
-    "AccentCity": "Pesaro",
-    "Region": 10,
-    "Population": 91817,
-    "Latitude": 43.9,
-    "Longitude": 12.916667,
-    "geopoint": "43.9,12.916667"
+    "Population": 91817
   }
 ]
