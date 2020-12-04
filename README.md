@@ -44,6 +44,7 @@ The App is connected to a remote REST API server thanks to clervercould.com for 
 
 ## API
 
+This REST API is deployed on clervercloud under the name "TownsApp" and can be reach using this [URL](https://towns-app.cleverapps.io/)
 
 -------
 
