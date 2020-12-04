@@ -46,6 +46,18 @@ The App is connected to a remote REST API server thanks to clervercould.com for 
 
 This REST API is deployed on clervercloud under the name "TownsApp" and can be reach using this [URL](https://towns-app.cleverapps.io/)
 
+##Les Json
+On se sert de deux fichiers json comme supports de base : csvjson contient l'ensemble des villes présentes
+dans la base de donnée et csvjsonfav contient les villes dans les favoris. Ces fichiers ne sont pas modifiés dans le programme.
+Nous avons modifié le fichier "tsconfig.json" pour pouvoir autoriser l'import de fichiers json dans notre AppService
+
+##Appservice et Appcontroller
+On crée une Map pour stocker le contenu des deux json dans deux storages : storage1 pour les non favoris, storage2 pour les favoris.
+On peut modifier par la suite storage1 et storage2 avec les fonctions create et delete. Les get se font aussi sur les storages 
+directement. Il n'y a plus d'interaction avec les json. De plus : lorsqu'on supprime une ville du storage des non favoris, 
+cela la supprime également du storage des favoris. Pour accéder aux fonctions sur les favoris, il faut aussi se rendre dans le répertoire 
+"favoris" au préalable.
+
 -------
 
 ## Android
