@@ -1,28 +1,19 @@
 package com.ismin.projectapp.activity
 
-import android.app.Activity
 import android.content.Intent
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.CountDownTimer
 import android.view.View
-import android.webkit.WebResourceError
-import android.webkit.WebResourceRequest
-import android.webkit.WebView
-import android.webkit.WebViewClient
 import android.widget.Button
-import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.annotation.RequiresApi
-import androidx.appcompat.widget.AppCompatButton
 import com.ismin.projectapp.R
 import com.ismin.projectapp.Town
 import com.ismin.projectapp.TownList
 import com.ismin.projectapp.retrofit.IRequests
 import kotlinx.android.synthetic.main.activity_focus_town.*
-import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
@@ -89,7 +80,7 @@ class FocusTownActivity : AppCompatActivity() {
             }
         })
 
-        // Listener when Click on button to Add a new town
+        // Listener when Click on button to Add/Remove to Favorite
         val button = this.findViewById<Button>(R.id.btn_fav)
         button.setOnClickListener { view -> addToFavorites(view)}
 

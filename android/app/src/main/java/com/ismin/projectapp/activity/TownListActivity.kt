@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.View
+import android.widget.Button
 import android.widget.Toast
 import androidx.fragment.app.FragmentTransaction
 import androidx.viewpager.widget.PagerAdapter
@@ -86,6 +87,7 @@ class TownListActivity : AppCompatActivity() {
         })
 
 
+
     }
 
     private fun displayErrorToast(t: Throwable) {
@@ -108,6 +110,13 @@ class TownListActivity : AppCompatActivity() {
         fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.getAllTowns(), favTown)
         viewpager.adapter = fragmentAdapter
         tabLayout.setupWithViewPager(viewpager)
+    }
+
+    fun refresh(view: View) {
+        displayList()
+        Toast.makeText(this,"Refreshed !", Toast.LENGTH_LONG).show()
+        toolbar.setTitle("Population Cities")
+        setSupportActionBar(toolbar)
     }
 
 

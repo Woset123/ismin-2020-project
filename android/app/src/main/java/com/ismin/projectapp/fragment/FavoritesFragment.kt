@@ -38,7 +38,7 @@ class FavoritesFragment(townsList: TownList) : Fragment(), TownAdapter.OnItemCli
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        val rootView = inflater.inflate(R.layout.fragment_town_list, container, false)
+        val rootView = inflater.inflate(R.layout.fragment_favorites, container, false)
 
         this.rcvTowns = rootView.findViewById(R.id.f_town_list_rcv_towns)
         this.rcvTowns.adapter = TownAdapter(towns, this)
@@ -47,6 +47,10 @@ class FavoritesFragment(townsList: TownList) : Fragment(), TownAdapter.OnItemCli
 
         val dividerItemDecoration = DividerItemDecoration(context, linearLayoutManager.orientation)
         this.rcvTowns.addItemDecoration(dividerItemDecoration)
+
+        // Listener when Click on button to Refresh
+        val button_refresh = rootView.findViewById<FloatingActionButton>(R.id.btn_refresh)
+        button_refresh.setOnClickListener { view -> (activity as TownListActivity).refresh(view)}
 
         return rootView;
     }

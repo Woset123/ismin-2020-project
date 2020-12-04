@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -55,6 +56,11 @@ class TownListFragment(townsList: ArrayList<Town>, favList: TownList) : Fragment
         // Listener when Click on button to Add a new town
         val button = rootView.findViewById<FloatingActionButton>(R.id.a_main_btn_creation)
         button.setOnClickListener { view -> (activity as TownListActivity).createNewTown(view)}
+
+        // Listener when Click on button to Refresh
+        val button_refresh = rootView.findViewById<FloatingActionButton>(R.id.btn_refresh)
+        button_refresh.setOnClickListener { view -> (activity as TownListActivity).refresh(view)}
+
 
         return rootView;
     }

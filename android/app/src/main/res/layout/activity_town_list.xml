@@ -9,7 +9,9 @@
     tools:context=".activity.TownListActivity">
 
 
+
     <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBarLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
@@ -21,18 +23,17 @@
             android:background="?attr/colorPrimary"
             android:theme="@style/AppTheme"
             app:popupTheme="@style/Theme.AppCompat.Light"
-            app:titleTextColor="#ffffff">
-        </androidx.appcompat.widget.Toolbar>
+            app:titleTextColor="#ffffff"/>
 
 
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/tabLayout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:tabMode="fixed"
-            app:tabMaxWidth="0dp"
             app:tabGravity="fill"
             app:tabIndicatorColor="#ffffff"
+            app:tabMaxWidth="0dp"
+            app:tabMode="fixed"
             app:tabTextColor="#ffffff">
 
         </com.google.android.material.tabs.TabLayout>
@@ -62,10 +63,7 @@
         android:layout_height="match_parent">
 
 
-
     </androidx.constraintlayout.widget.ConstraintLayout>
-
-
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
