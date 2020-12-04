@@ -67,4 +67,9 @@ class FavoritesFragment(townsList: TownList) : Fragment(), TownAdapter.OnItemCli
             .putExtra("population", Population)
         startActivityForResult(intent, this.FocusTownActivityRequestCode)
     }
+
+    override fun onItemLongClick(City: String, Country: String, Population: String) {
+        //Do Nothing
+        TODO("Not yet implemented")
+    }
 }

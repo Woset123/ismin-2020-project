@@ -2,12 +2,14 @@ package com.ismin.projectapp.activity
 
 
 import android.content.Intent
+import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.View
 import android.widget.Button
 import android.widget.Toast
+import androidx.annotation.RequiresApi
 import androidx.fragment.app.FragmentTransaction
 import androidx.viewpager.widget.PagerAdapter
 import com.ismin.projectapp.R
@@ -120,4 +122,26 @@ class TownListActivity : AppCompatActivity() {
     }
 
 
+    fun removeItem(town: Town) {
+
+        Toast.makeText(this,"Removed !", Toast.LENGTH_LONG).show()
+
+        /**irequests.removeTown(town.City).enqueue(object : Callback<String> {
+            override fun onFailure(call: Call<String>, t: Throwable) {
+                Toast.makeText(
+                        applicationContext,
+                        "Network error ${t.localizedMessage}",
+                        Toast.LENGTH_LONG
+                ).show()
+            }
+
+            @RequiresApi(Build.VERSION_CODES.N)
+            override fun onResponse(call: Call<String>, response: Response<String>) {
+                townlist.removeTown(response.body()!!)
+                favTown.removeTown(response.body()!!)
+            }
+
+        })**/
+
+    }
 }

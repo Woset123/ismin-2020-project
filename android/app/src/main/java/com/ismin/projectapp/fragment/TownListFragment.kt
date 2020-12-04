@@ -5,7 +5,6 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -14,7 +13,6 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.ismin.projectapp.R
 import com.ismin.projectapp.Town
 import com.ismin.projectapp.TownList
-import com.ismin.projectapp.activity.CreateTownActivity
 import com.ismin.projectapp.activity.FocusTownActivity
 import com.ismin.projectapp.activity.TownListActivity
 import com.ismin.projectapp.adapter.TownAdapter
@@ -85,4 +83,9 @@ class TownListFragment(townsList: ArrayList<Town>, favList: TownList) : Fragment
             .putExtra("population", Population)
         startActivityForResult(intent, this.FocusTownActivityRequestCode)
     }
+
+    override fun onItemLongClick(City: String, Country: String, Population: String) {
+        (activity as TownListActivity).removeItem(Town(City, Country, Population))
+    }
+
 }
