@@ -7,6 +7,7 @@ import android.util.Log
 import android.view.View
 import android.view.ViewGroup
 import android.widget.EditText
+import android.widget.Toast
 import androidx.appcompat.widget.AppCompatButton
 import androidx.cardview.widget.CardView
 import com.ismin.projectapp.R
@@ -69,7 +70,11 @@ class CreateTownActivity() : AppCompatActivity() {
 
         irequests.createTown(town).enqueue(object : Callback<Town> {
             override fun onFailure(call: Call<Town>, t: Throwable) {
-                TODO("Not yet implemented")
+                Toast.makeText(
+                        applicationContext,
+                        "Network error ${t.localizedMessage}",
+                        Toast.LENGTH_LONG
+                ).show()
             }
 
             override fun onResponse(call: Call<Town>, response: Response<Town>) {

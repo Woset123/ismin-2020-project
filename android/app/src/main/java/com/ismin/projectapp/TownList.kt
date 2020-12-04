@@ -1,5 +1,7 @@
 package com.ismin.projectapp
 
+import android.os.Build
+import androidx.annotation.RequiresApi
 import retrofit2.Call
 import java.io.Serializable
 
@@ -26,5 +28,18 @@ class TownList : Serializable {
 
     fun getTotalNumberOfTowns(): Int {
         return this.storage.size
+    }
+
+    fun exist(town: Town): Boolean {
+        return this.storage.containsValue(town)
+    }
+
+    @RequiresApi(Build.VERSION_CODES.N)
+    fun removeTown(city: String) {
+        for ((key, value) in storage) {
+            if (value.City==city) {
+                storage.remove(key,value)
+            }
+        }
     }
 }

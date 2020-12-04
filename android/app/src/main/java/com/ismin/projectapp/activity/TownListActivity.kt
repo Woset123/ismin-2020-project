@@ -28,20 +28,8 @@ class TownListActivity : AppCompatActivity() {
     private val CreateTownActivityRequestCode = 1;
     private lateinit var irequests: IRequests
 
-    private val city_test = Town(
-
-            City = "Paris",
-            Country = "France",
-            Population = "2148000"
-    )
-
-    private val city_test2 = Town(
-
-            City = "Tours",
-            Country = "France",
-            Population = "120000"
-    )
     val townlist = TownList()
+    val favTown = TownList()
 
     private lateinit var fragmentAdapter : PagerAdapter
 
@@ -52,10 +40,6 @@ class TownListActivity : AppCompatActivity() {
         toolbar.setTitle("Population Cities")
         setSupportActionBar(toolbar)
 
-
-        //townlist.addTown(city_test)
-        //townlist.addTown(city_test2)
-
         //Retrofit
         val retrofit = Retrofit.Builder()
                 .addConverterFactory(GsonConverterFactory.create())
@@ -63,6 +47,24 @@ class TownListActivity : AppCompatActivity() {
                 .build()
 
         irequests = retrofit.create(IRequests::class.java)
+
+
+        irequests.allFavorites().enqueue(object : Callback<ArrayList<Town>> {
+            override fun onResponse(
+                call: Call<ArrayList<Town>>,
+                response: Response<ArrayList<Town>>
+            ) {
+                val alltowns = response.body()
+                alltowns?.forEach{
+                    favTown.addTown(it)
+                }
+            }
+
+            override fun onFailure(call: Call<ArrayList<Town>>, t: Throwable) {
+                displayErrorToast(t)
+            }
+        })
+
 
         irequests.allTowns().enqueue(object : Callback<ArrayList<Town>> {
             override fun onResponse(
@@ -84,8 +86,6 @@ class TownListActivity : AppCompatActivity() {
         })
 
 
-
-
     }
 
     private fun displayErrorToast(t: Throwable) {
@@ -105,7 +105,7 @@ class TownListActivity : AppCompatActivity() {
 
     fun displayList() {
 
-        fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.getAllTowns())
+        fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.getAllTowns(), favTown)
         viewpager.adapter = fragmentAdapter
         tabLayout.setupWithViewPager(viewpager)
     }

@@ -33,7 +33,7 @@ class TownAdapter (private val towns: ArrayList<Town>, private val listener: OnI
         }
 
         override fun onClick(v: View?) {
-            listener.onItemClick(itemCountry.text.toString(), itemCity.text.toString(), itemPopulation.text.toString())
+            listener.onItemClick(itemCity.text.toString(), itemCountry.text.toString(), itemPopulation.text.toString())
         }
 
     }
