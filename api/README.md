@@ -60,6 +60,15 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Notes sur le projet
+On se sert de deux fichiers json comme supports de base : csvjson contient l'ensemble des villes présentes
+dans la base de donnée et csvjsonfav contient les villes dans les favoris. Ces fichiers ne sont pas modifiés dans le programme.
+On crée une Map pour stocker le contenu des deux json dans deux storages : storage1 pour les non favoris, storage2 pour les favoris.
+On peut modifier par la suite storage1 et storage2 avec les fonctions create et delete. Les get se font aussi sur les storages 
+directement. Il n'y a plus d'interaction avec les json. De plus : lorsqu'on supprime une ville du storage des non favoris, 
+cela la supprime également du storage des favoris. Pour accéder aux fonctions sur les favoris, il faut aussi se rendre dans le répertoire 
+"favoris" au préalable.
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
