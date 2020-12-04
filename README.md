@@ -21,7 +21,7 @@ Bicheler Hugo & Dall'Agnol Eric
 
 ## Context
 
-This application was developed as part of ISMIN Android courses.
+This application  with its Web Server were developed as part of ISMIN Android courses.
 
 The main goal is to display data on an Android App using our own API.
 
@@ -83,6 +83,13 @@ To carry out this development, here are the differents files :
 
 
 ### Features
+
+- Splash Screen
+- Overview of the 20 most populated cities of some European countries
+- Add a new Town
+- Remove an existing Town
+- Favorite Towns can be handled
+- A lot lot lot time of researches 
 
 ### Issues
 
