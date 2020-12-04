@@ -2,11 +2,15 @@ package com.ismin.projectapp.activity
 
 
 import android.content.Intent
+import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.View
+import android.widget.Button
+import android.widget.SearchView
 import android.widget.Toast
+import androidx.annotation.RequiresApi
 import androidx.fragment.app.FragmentTransaction
 import androidx.viewpager.widget.PagerAdapter
 import com.ismin.projectapp.R
@@ -28,20 +32,8 @@ class TownListActivity : AppCompatActivity() {
     private val CreateTownActivityRequestCode = 1;
     private lateinit var irequests: IRequests
 
-    private val city_test = Town(
-
-            City = "Paris",
-            Country = "France",
-            Population = "2148000"
-    )
-
-    private val city_test2 = Town(
-
-            City = "Tours",
-            Country = "France",
-            Population = "120000"
-    )
     val townlist = TownList()
+    val favTown = TownList()
 
     private lateinit var fragmentAdapter : PagerAdapter
 
@@ -52,10 +44,6 @@ class TownListActivity : AppCompatActivity() {
         toolbar.setTitle("Population Cities")
         setSupportActionBar(toolbar)
 
-
-        //townlist.addTown(city_test)
-        //townlist.addTown(city_test2)
-
         //Retrofit
         val retrofit = Retrofit.Builder()
                 .addConverterFactory(GsonConverterFactory.create())
@@ -63,6 +51,24 @@ class TownListActivity : AppCompatActivity() {
                 .build()
 
         irequests = retrofit.create(IRequests::class.java)
+
+
+        irequests.allFavorites().enqueue(object : Callback<ArrayList<Town>> {
+            override fun onResponse(
+                call: Call<ArrayList<Town>>,
+                response: Response<ArrayList<Town>>
+            ) {
+                val alltowns = response.body()
+                alltowns?.forEach{
+                    favTown.addTown(it)
+                }
+            }
+
+            override fun onFailure(call: Call<ArrayList<Town>>, t: Throwable) {
+                displayErrorToast(t)
+            }
+        })
+
 
         irequests.allTowns().enqueue(object : Callback<ArrayList<Town>> {
             override fun onResponse(
@@ -83,7 +89,20 @@ class TownListActivity : AppCompatActivity() {
             }
         })
 
+        search.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
+            override fun onQueryTextSubmit(query: String?): Boolean {
+                if (query != null) {
+                    displaySearch(query)
+                }
+                return false
+            }
 
+            override fun onQueryTextChange(newText: String?): Boolean {
+                return false
+            }
+
+
+        })
 
 
     }
@@ -105,10 +124,51 @@ class TownListActivity : AppCompatActivity() {
 
     fun displayList() {
 
-        fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.getAllTowns())
+        fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.getAllTowns(), favTown)
         viewpager.adapter = fragmentAdapter
         tabLayout.setupWithViewPager(viewpager)
     }
 
+    //Search based On City name
+    fun displaySearch(string: String) {
 
+
+        Log.v("123","Search")
+        fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.search(string), favTown)
+        viewpager.adapter = fragmentAdapter
+        tabLayout.setupWithViewPager(viewpager)
+        fragmentAdapter.notifyDataSetChanged()
+
+    }
+
+    fun refresh(view: View) {
+
+        finish()
+        startActivity(intent)
+
+    }
+
+
+    fun removeItem(town: Town) {
+
+        Toast.makeText(this,"Removed !", Toast.LENGTH_LONG).show()
+
+        irequests.removeTown(town.City).enqueue(object : Callback<String> {
+            override fun onFailure(call: Call<String>, t: Throwable) {
+                Toast.makeText(
+                        applicationContext,
+                        "Network error ${t.localizedMessage}",
+                        Toast.LENGTH_LONG
+                ).show()
+            }
+
+            @RequiresApi(Build.VERSION_CODES.N)
+            override fun onResponse(call: Call<String>, response: Response<String>) {
+                townlist.removeTown(response.body()!!)
+                favTown.removeTown(response.body()!!)
+            }
+
+        })
+
+    }
 }

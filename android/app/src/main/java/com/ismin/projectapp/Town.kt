@@ -9,3 +9,4 @@ data class Town(
     val Population: String
 
 ) : Serializable
+

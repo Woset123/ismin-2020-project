@@ -12,16 +12,17 @@ import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.ismin.projectapp.R
 import com.ismin.projectapp.Town
-import com.ismin.projectapp.activity.CreateTownActivity
+import com.ismin.projectapp.TownList
 import com.ismin.projectapp.activity.FocusTownActivity
 import com.ismin.projectapp.activity.TownListActivity
 import com.ismin.projectapp.adapter.TownAdapter
 
 private const val ARG_TOWNS = "ARG_TOWNS"
 
-class TownListFragment(townsList: ArrayList<Town>) : Fragment(), TownAdapter.OnItemClickListener {
+class TownListFragment(townsList: ArrayList<Town>, favList: TownList) : Fragment(), TownAdapter.OnItemClickListener {
 
     private var towns: ArrayList<Town> = townsList
+    private var favTowns: ArrayList<Town> = favList.getAllTowns()
     private lateinit var rcvTowns: RecyclerView
 
     private val FocusTownActivityRequestCode = 1;
@@ -54,6 +55,11 @@ class TownListFragment(townsList: ArrayList<Town>) : Fragment(), TownAdapter.OnI
         val button = rootView.findViewById<FloatingActionButton>(R.id.a_main_btn_creation)
         button.setOnClickListener { view -> (activity as TownListActivity).createNewTown(view)}
 
+        // Listener when Click on button to Refresh
+        val button_refresh = rootView.findViewById<FloatingActionButton>(R.id.btn_refresh)
+        button_refresh.setOnClickListener { view -> (activity as TownListActivity).refresh(view)}
+
+
         return rootView;
     }
 
@@ -61,8 +67,8 @@ class TownListFragment(townsList: ArrayList<Town>) : Fragment(), TownAdapter.OnI
 
     companion object {
         @JvmStatic
-        fun newInstance(towns: ArrayList<Town>) =
-                TownListFragment(towns).apply {
+        fun newInstance(towns: ArrayList<Town>, favTowns: TownList) =
+                TownListFragment(towns, favTowns ).apply {
                     arguments = Bundle().apply {
                         putSerializable(ARG_TOWNS, ArrayList(towns))
                     }
@@ -71,14 +77,15 @@ class TownListFragment(townsList: ArrayList<Town>) : Fragment(), TownAdapter.OnI
 
     override fun onItemClick(City: String, Country: String, Population: String) {
 
-        val Country = Country
-        val City = City
-        val Population = Population
-
         val intent = Intent(activity, FocusTownActivity::class.java)
             .putExtra("city", City)
             .putExtra("country", Country)
             .putExtra("population", Population)
         startActivityForResult(intent, this.FocusTownActivityRequestCode)
     }
+
+    override fun onItemLongClick(City: String, Country: String, Population: String) {
+        (activity as TownListActivity).removeItem(Town(City, Country, Population))
+    }
+
 }

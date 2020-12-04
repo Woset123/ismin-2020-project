@@ -9,6 +9,7 @@
     android:padding="5dp"
     android:clickable="true"
     android:focusable="true"
+    android:longClickable="true"
     android:foreground="?selectableItemBackground"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">

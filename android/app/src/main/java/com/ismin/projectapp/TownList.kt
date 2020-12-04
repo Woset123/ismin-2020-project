@@ -1,5 +1,7 @@
 package com.ismin.projectapp
 
+import android.os.Build
+import androidx.annotation.RequiresApi
 import retrofit2.Call
 import java.io.Serializable
 
@@ -16,15 +18,33 @@ class TownList : Serializable {
     }
 
     fun getAllTowns(): ArrayList<Town> {
-        return ArrayList(this.storage.values)
+        return ArrayList(this.storage.values.sortedBy { town -> town.Country })
     }
 
-    fun getTownsofCountry(Country: String): List<Town> {
+    fun getTownsofCountry(Country: String): ArrayList<Town> {
         val filteredStorage = this.storage.filter { it.value.Country == Country }
-        return ArrayList(filteredStorage.values).sortedBy { town -> town.Country }
+        return ArrayList(filteredStorage.values.sortedBy { town -> town.Country })
     }
 
     fun getTotalNumberOfTowns(): Int {
         return this.storage.size
+    }
+
+    fun exist(town: Town): Boolean {
+        return this.storage.containsValue(town)
+    }
+
+    fun search(City: String): ArrayList<Town> {
+        val filter = this.storage.filterValues { it.City == City }
+        return ArrayList(filter.values)
+    }
+
+    @RequiresApi(Build.VERSION_CODES.N)
+    fun removeTown(city: String) {
+        for ((key, value) in storage) {
+            if (value.City==city) {
+                storage.remove(key,value)
+            }
+        }
     }
 }
