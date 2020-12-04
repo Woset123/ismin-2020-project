@@ -87,8 +87,13 @@ To carry out this development, here are the differents files :
 - Splash Screen :heavy_check_mark:
 - Overview of the 20 most populated cities of some European countries :heavy_check_mark:
 - Add a new Town :heavy_check_mark:
+  - On the tab "Towns" click on the floating button "+"
 - Remove an existing Town :heavy_check_mark:
+  - Long click on the item to remove it. You can only remove an item in the tab Towns !
 - Favorite Towns can be handled :heavy_check_mark:
+  - Short click on an item (no matter the tab) to display a new view where you can click on the heart to add/remove to/from the favorites
+- A non elegant but functional refresh !
+  - Click on the floating button refresh displayed on the two tabs
 - A lot lot lot of time of researches :relieved:
 
 ### Issues
