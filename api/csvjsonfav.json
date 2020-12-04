@@ -1,22 +1,22 @@
 [
   {
     "Country": "Germany",
-    "City": "berlin",
+    "City": "Berlin",
     "Population": 3398362
   },
   {
     "Country": "Germany",
-    "City": "hamburg",
+    "City": "Hamburg",
     "Population": 1733846
   },
   {
     "Country": "Germany",
-    "City": "munich",
+    "City": "Munich",
     "Population": 1246133
   },
   {
     "Country": "Germany",
-    "City": "cologne",
+    "City": "Cologne",
     "Population": 968823
   }
 ]

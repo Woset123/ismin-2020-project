@@ -1,1752 +1,1752 @@
 [
   {
     "Country": "Germany",
-    "City": "berlin",
+    "City": "Berlin",
     "Population": 3398362
   },
   {
     "Country": "Germany",
-    "City": "hamburg",
+    "City": "Hamburg",
     "Population": 1733846
   },
   {
     "Country": "Germany",
-    "City": "munich",
+    "City": "Munich",
     "Population": 1246133
   },
   {
     "Country": "Germany",
-    "City": "cologne",
+    "City": "Cologne",
     "Population": 968823
   },
   {
     "Country": "Germany",
-    "City": "frankfurt",
+    "City": "Frankfurt",
     "Population": 648034
   },
   {
     "Country": "Germany",
-    "City": "dortmund",
+    "City": "Dortmund",
     "Population": 594255
   },
   {
     "Country": "Germany",
-    "City": "stuttgart",
+    "City": "Stuttgart",
     "Population": 591688
   },
   {
     "Country": "Germany",
-    "City": "dusseldorf",
+    "City": "Dusseldorf",
     "Population": 577139
   },
   {
     "Country": "Germany",
-    "City": "essen",
+    "City": "Essen",
     "Population": 576914
   },
   {
     "Country": "Germany",
-    "City": "bremen",
+    "City": "Bremen",
     "Population": 546429
   },
   {
     "Country": "Germany",
-    "City": "hanover",
+    "City": "Hanover",
     "Population": 519144
   },
   {
     "Country": "Germany",
-    "City": "duisburg",
+    "City": "Duisburg",
     "Population": 505271
   },
   {
     "Country": "Germany",
-    "City": "nuremberg",
+    "City": "Nuremberg",
     "Population": 497593
   },
   {
     "Country": "Germany",
-    "City": "leipzig",
+    "City": "Leipzig",
     "Population": 492637
   },
   {
     "Country": "Germany",
-    "City": "dresden",
+    "City": "Dresden",
     "Population": 480801
   },
   {
     "Country": "Germany",
-    "City": "bochum",
+    "City": "Bochum",
     "Population": 387061
   },
   {
     "Country": "Germany",
-    "City": "wuppertal",
+    "City": "Wuppertal",
     "Population": 363240
   },
   {
     "Country": "Germany",
-    "City": "bielefeld",
+    "City": "Bielefeld",
     "Population": 327198
   },
   {
     "Country": "Germany",
-    "City": "bonn",
+    "City": "Bonn",
     "Population": 314081
   },
   {
     "Country": "Germany",
-    "City": "mannheim",
+    "City": "Mannheim",
     "Population": 309626
   },
   {
     "Country": "Germany",
-    "City": "karlsruhe",
+    "City": "Karlsruhe",
     "Population": 284786
   },
   {
     "Country": "Germany",
-    "City": "munster",
+    "City": "Munster",
     "Population": 272452
   },
   {
     "Country": "Germany",
-    "City": "wiesbaden",
+    "City": "Wiesbaden",
     "Population": 272337
   },
   {
     "Country": "Germany",
-    "City": "gelsenkirchen",
+    "City": "Gelsenkirchen",
     "Population": 271647
   },
   {
     "Country": "Germany",
-    "City": "monchengladbach",
+    "City": "Monchengladbach",
     "Population": 264969
   },
   {
     "Country": "Germany",
-    "City": "augsburg",
+    "City": "Augsburg",
     "Population": 261842
   },
   {
     "Country": "Germany",
-    "City": "aachen",
+    "City": "Aachen",
     "Population": 251104
   },
   {
     "Country": "Germany",
-    "City": "chemnitz",
+    "City": "Chemnitz",
     "Population": 246654
   },
   {
     "Country": "Germany",
-    "City": "brunswick",
+    "City": "Brunswick",
     "Population": 245259
   },
   {
     "Country": "Germany",
-    "City": "krefeld",
+    "City": "Krefeld",
     "Population": 239908
   },
   {
     "Country": "Germany",
-    "City": "kiel",
+    "City": "Kiel",
     "Population": 235264
   },
   {
     "Country": "Germany",
-    "City": "halle",
+    "City": "Halle",
     "Population": 232452
   },
   {
     "Country": "Germany",
-    "City": "magdeburg",
+    "City": "Magdeburg",
     "Population": 224428
   },
   {
     "Country": "Germany",
-    "City": "oberhausen",
+    "City": "Oberhausen",
     "Population": 220916
   },
   {
     "Country": "Germany",
-    "City": "freiburg",
+    "City": "Freiburg",
     "Population": 213920
   },
   {
     "Country": "Germany",
-    "City": "lubeck",
+    "City": "Lubeck",
     "Population": 213171
   },
   {
     "Country": "Germany",
-    "City": "hagen",
+    "City": "Hagen",
     "Population": 199497
   },
   {
     "Country": "Germany",
-    "City": "rostock",
+    "City": "Rostock",
     "Population": 196833
   },
   {
     "Country": "Germany",
-    "City": "erfurt",
+    "City": "Erfurt",
     "Population": 196719
   },
   {
     "Country": "Germany",
-    "City": "kassel",
+    "City": "Kassel",
     "Population": 193117
   },
   {
     "Country": "Germany",
-    "City": "mainz",
+    "City": "Mainz",
     "Population": 187940
   },
   {
     "Country": "Germany",
-    "City": "hamm",
+    "City": "Hamm",
     "Population": 186289
   },
   {
     "Country": "Germany",
-    "City": "saarbrucken",
+    "City": "Saarbrucken",
     "Population": 181779
   },
   {
     "Country": "Germany",
-    "City": "herne",
+    "City": "Herne",
     "Population": 173121
   },
   {
     "Country": "Germany",
-    "City": "mulheim",
+    "City": "Mulheim",
     "Population": 172779
   },
   {
     "Country": "Germany",
-    "City": "osnabruck",
+    "City": "Osnabruck",
     "Population": 165372
   },
   {
     "Country": "Germany",
-    "City": "solingen",
+    "City": "Solingen",
     "Population": 165192
   },
   {
     "Country": "Germany",
-    "City": "ludwigshafen",
+    "City": "Ludwigshafen",
     "Population": 162514
   },
   {
     "Country": "Germany",
-    "City": "oldenburg",
+    "City": "Oldenburg",
     "Population": 160347
   },
   {
     "Country": "Germany",
-    "City": "leverkusen",
+    "City": "Leverkusen",
     "Population": 159088
   },
   {
     "Country": "France",
-    "City": "paris",
+    "City": "Paris",
     "Population": 2110694
   },
   {
     "Country": "France",
-    "City": "marseille",
+    "City": "Marseille",
     "Population": 792823
   },
   {
     "Country": "France",
-    "City": "lyon",
+    "City": "Lyon",
     "Population": 463700
   },
   {
     "Country": "France",
-    "City": "toulouse",
+    "City": "Toulouse",
     "Population": 411145
   },
   {
     "Country": "France",
-    "City": "nice",
+    "City": "Nice",
     "Population": 341621
   },
   {
     "Country": "France",
-    "City": "nantes",
+    "City": "Nantes",
     "Population": 284677
   },
   {
     "Country": "France",
-    "City": "strasbourg",
+    "City": "Strasbourg",
     "Population": 273506
   },
   {
     "Country": "France",
-    "City": "montpellier",
+    "City": "Montpellier",
     "Population": 238887
   },
   {
     "Country": "France",
-    "City": "bordeaux",
+    "City": "Bordeaux",
     "Population": 219311
   },
   {
     "Country": "France",
-    "City": "rennes",
+    "City": "Rennes",
     "Population": 213334
   },
   {
     "Country": "France",
-    "City": "reims",
+    "City": "Reims",
     "Population": 192688
   },
   {
     "Country": "France",
-    "City": "lille",
+    "City": "Lille",
     "Population": 189746
   },
   {
     "Country": "France",
-    "City": "le havre",
+    "City": "Le Havre",
     "Population": 188605
   },
   {
     "Country": "France",
-    "City": "saint-etienne",
+    "City": "Saint-Etienne",
     "Population": 170416
   },
   {
     "Country": "France",
-    "City": "angers",
+    "City": "Angers",
     "Population": 158585
   },
   {
     "Country": "France",
-    "City": "grenoble",
+    "City": "Grenoble",
     "Population": 154853
   },
   {
     "Country": "France",
-    "City": "toulon",
+    "City": "Toulon",
     "Population": 154465
   },
   {
     "Country": "France",
-    "City": "dijon",
+    "City": "Dijon",
     "Population": 153692
   },
   {
     "Country": "France",
-    "City": "brest",
+    "City": "Brest",
     "Population": 150554
   },
   {
     "Country": "France",
-    "City": "le mans",
+    "City": "Le Mans",
     "Population": 147413
   },
   {
     "Country": "France",
-    "City": "aix-en-provence",
+    "City": "Aix-En-Provence",
     "Population": 142133
   },
   {
     "Country": "France",
-    "City": "amiens",
+    "City": "Amiens",
     "Population": 138816
   },
   {
     "Country": "France",
-    "City": "nimes",
+    "City": "Nimes",
     "Population": 137532
   },
   {
     "Country": "France",
-    "City": "clermont-ferrand",
+    "City": "Clermont-Ferrand",
     "Population": 137364
   },
   {
     "Country": "France",
-    "City": "tours",
+    "City": "Tours",
     "Population": 135143
   },
   {
     "Country": "France",
-    "City": "limoges",
+    "City": "Limoges",
     "Population": 134549
   },
   {
     "Country": "France",
-    "City": "metz",
+    "City": "Metz",
     "Population": 128021
   },
   {
     "Country": "France",
-    "City": "villeurbanne",
+    "City": "Villeurbanne",
     "Population": 126230
   },
   {
     "Country": "France",
-    "City": "besancon",
+    "City": "Besancon",
     "Population": 120139
   },
   {
     "Country": "France",
-    "City": "orleans",
+    "City": "Orleans",
     "Population": 118190
   },
   {
     "Country": "France",
-    "City": "caen",
+    "City": "Caen",
     "Population": 115358
   },
   {
     "Country": "France",
-    "City": "mulhouse",
+    "City": "Mulhouse",
     "Population": 111972
   },
   {
     "Country": "France",
-    "City": "boulogne-billancourt",
+    "City": "Boulogne-Billancourt",
     "Population": 109765
   },
   {
     "Country": "France",
-    "City": "rouen",
+    "City": "Rouen",
     "Population": 108101
   },
   {
     "Country": "France",
-    "City": "nancy",
+    "City": "Nancy",
     "Population": 106857
   },
   {
     "Country": "France",
-    "City": "perpignan",
+    "City": "Perpignan",
     "Population": 104783
   },
   {
     "Country": "France",
-    "City": "roubaix",
+    "City": "Roubaix",
     "Population": 96806
   },
   {
     "Country": "France",
-    "City": "argenteuil",
+    "City": "Argenteuil",
     "Population": 95075
   },
   {
     "Country": "France",
-    "City": "tourcoing",
+    "City": "Tourcoing",
     "Population": 93835
   },
   {
     "Country": "France",
-    "City": "montreuil",
+    "City": "Montreuil",
     "Population": 89125
   },
   {
     "Country": "France",
-    "City": "poitiers",
+    "City": "Poitiers",
     "Population": 86639
   },
   {
     "Country": "France",
-    "City": "avignon",
+    "City": "Avignon",
     "Population": 85848
   },
   {
     "Country": "France",
-    "City": "versailles",
+    "City": "Versailles",
     "Population": 85134
   },
   {
     "Country": "France",
-    "City": "nanterre",
+    "City": "Nanterre",
     "Population": 84448
   },
   {
     "Country": "France",
-    "City": "creteil",
+    "City": "Creteil",
     "Population": 84133
   },
   {
     "Country": "France",
-    "City": "saint-denis",
+    "City": "Saint-Denis",
     "Population": 84027
   },
   {
     "Country": "France",
-    "City": "la rochelle",
+    "City": "La Rochelle",
     "Population": 80406
   },
   {
     "Country": "France",
-    "City": "aulnay-sous-bois",
+    "City": "Aulnay-Sous-Bois",
     "Population": 79622
   },
   {
     "Country": "France",
-    "City": "calais",
+    "City": "Calais",
     "Population": 79010
   },
   {
     "Country": "France",
-    "City": "rueil-malmaison",
+    "City": "Rueil-Malmaison",
     "Population": 78645
   },
   {
     "Country": "United-Kingdom",
-    "City": "london",
+    "City": "London",
     "Population": 7421228
   },
   {
     "Country": "United-Kingdom",
-    "City": "birmingham",
+    "City": "Birmingham",
     "Population": 984336
   },
   {
     "Country": "United-Kingdom",
-    "City": "glasgow",
+    "City": "Glasgow",
     "Population": 610271
   },
   {
     "Country": "United-Kingdom",
-    "City": "belfast",
+    "City": "Belfast",
     "Population": 585994
   },
   {
     "Country": "United-Kingdom",
-    "City": "liverpool",
+    "City": "Liverpool",
     "Population": 468946
   },
   {
     "Country": "United-Kingdom",
-    "City": "leeds",
+    "City": "Leeds",
     "Population": 455124
   },
   {
     "Country": "United-Kingdom",
-    "City": "sheffield",
+    "City": "Sheffield",
     "Population": 447048
   },
   {
     "Country": "United-Kingdom",
-    "City": "edinburgh",
+    "City": "Edinburgh",
     "Population": 435794
   },
   {
     "Country": "United-Kingdom",
-    "City": "bristol",
+    "City": "Bristol",
     "Population": 430714
   },
   {
     "Country": "United-Kingdom",
-    "City": "manchester",
+    "City": "Manchester",
     "Population": 395516
   },
   {
     "Country": "United-Kingdom",
-    "City": "leicester",
+    "City": "Leicester",
     "Population": 339240
   },
   {
     "Country": "United-Kingdom",
-    "City": "leicester",
+    "City": "Leicester",
     "Population": 339240
   },
   {
     "Country": "United-Kingdom",
-    "City": "coventry",
+    "City": "Coventry",
     "Population": 308314
   },
   {
     "Country": "United-Kingdom",
-    "City": "kingston upon hull",
+    "City": "Kingston Upon Hull",
     "Population": 302297
   },
   {
     "Country": "United-Kingdom",
-    "City": "cardiff",
+    "City": "Cardiff",
     "Population": 302142
   },
   {
     "Country": "United-Kingdom",
-    "City": "bradford",
+    "City": "Bradford",
     "Population": 299310
   },
   {
     "Country": "United-Kingdom",
-    "City": "stoke-on-trent",
+    "City": "Stoke-On-Trent",
     "Population": 260420
   },
   {
     "Country": "United-Kingdom",
-    "City": "wolverhampton",
+    "City": "Wolverhampton",
     "Population": 252792
   },
   {
     "Country": "United-Kingdom",
-    "City": "plymouth",
+    "City": "Plymouth",
     "Population": 247298
   },
   {
     "Country": "United-Kingdom",
-    "City": "nottingham",
+    "City": "Nottingham",
     "Population": 246655
   },
   {
     "Country": "United-Kingdom",
-    "City": "southampton",
+    "City": "Southampton",
     "Population": 246201
   },
   {
     "Country": "United-Kingdom",
-    "City": "reading",
+    "City": "Reading",
     "Population": 244071
   },
   {
     "Country": "United-Kingdom",
-    "City": "derby",
+    "City": "Derby",
     "Population": 235029
   },
   {
     "Country": "United-Kingdom",
-    "City": "dudley",
+    "City": "Dudley",
     "Population": 199060
   },
   {
     "Country": "United-Kingdom",
-    "City": "northampton",
+    "City": "Northampton",
     "Population": 197323
   },
   {
     "Country": "United-Kingdom",
-    "City": "portsmouth",
+    "City": "Portsmouth",
     "Population": 194151
   },
   {
     "Country": "United-Kingdom",
-    "City": "luton",
+    "City": "Luton",
     "Population": 193670
   },
   {
     "Country": "United-Kingdom",
-    "City": "newcastle upon tyne",
+    "City": "Newcastle Upon Tyne",
     "Population": 192382
   },
   {
     "Country": "United-Kingdom",
-    "City": "preston",
+    "City": "Preston",
     "Population": 190688
   },
   {
     "Country": "United-Kingdom",
-    "City": "aberdeen",
+    "City": "Aberdeen",
     "Population": 183791
   },
   {
     "Country": "United-Kingdom",
-    "City": "sunderland",
+    "City": "Sunderland",
     "Population": 177965
   },
   {
     "Country": "United-Kingdom",
-    "City": "norwich",
+    "City": "Norwich",
     "Population": 177636
   },
   {
     "Country": "United-Kingdom",
-    "City": "bournemouth",
+    "City": "Bournemouth",
     "Population": 175017
   },
   {
     "Country": "United-Kingdom",
-    "City": "walsall",
+    "City": "Walsall",
     "Population": 172142
   },
   {
     "Country": "United-Kingdom",
-    "City": "swansea",
+    "City": "Swansea",
     "Population": 170885
   },
   {
     "Country": "United-Kingdom",
-    "City": "southend-on-sea",
+    "City": "Southend-On-Sea",
     "Population": 163378
   },
   {
     "Country": "United-Kingdom",
-    "City": "swindon",
+    "City": "Swindon",
     "Population": 162439
   },
   {
     "Country": "United-Kingdom",
-    "City": "oxford",
+    "City": "Oxford",
     "Population": 154567
   },
   {
     "Country": "United-Kingdom",
-    "City": "dundee",
+    "City": "Dundee",
     "Population": 151593
   },
   {
     "Country": "United-Kingdom",
-    "City": "poole",
+    "City": "Poole",
     "Population": 150092
   },
   {
     "Country": "United-Kingdom",
-    "City": "huddersfield",
+    "City": "Huddersfield",
     "Population": 149018
   },
   {
     "Country": "United-Kingdom",
-    "City": "york",
+    "City": "York",
     "Population": 144202
   },
   {
     "Country": "United-Kingdom",
-    "City": "ipswich",
+    "City": "Ipswich",
     "Population": 143768
   },
   {
     "Country": "United-Kingdom",
-    "City": "blackpool",
+    "City": "Blackpool",
     "Population": 143101
   },
   {
     "Country": "United-Kingdom",
-    "City": "middlesbrough",
+    "City": "Middlesbrough",
     "Population": 142708
   },
   {
     "Country": "United-Kingdom",
-    "City": "bolton",
+    "City": "Bolton",
     "Population": 141331
   },
   {
     "Country": "United-Kingdom",
-    "City": "peterborough",
+    "City": "Peterborough",
     "Population": 140142
   },
   {
     "Country": "United-Kingdom",
-    "City": "stockport",
+    "City": "Stockport",
     "Population": 139053
   },
   {
     "Country": "United-Kingdom",
-    "City": "brighton",
+    "City": "Brighton",
     "Population": 139001
   },
   {
     "Country": "United-Kingdom",
-    "City": "west bromwich",
+    "City": "West Bromwich",
     "Population": 135618
   },
   {
     "Country": "Switzerland",
-    "City": "zurich",
+    "City": "Zurich",
     "Population": 346185
   },
   {
     "Country": "Switzerland",
-    "City": "geneva",
+    "City": "Geneva",
     "Population": 181492
   },
   {
     "Country": "Switzerland",
-    "City": "basel",
+    "City": "Basel",
     "Population": 164474
   },
   {
     "Country": "Switzerland",
-    "City": "bern",
+    "City": "Bern",
     "Population": 123018
   },
   {
     "Country": "Switzerland",
-    "City": "lausanne",
+    "City": "Lausanne",
     "Population": 118015
   },
   {
     "Country": "Switzerland",
-    "City": "winterthur",
+    "City": "Winterthur",
     "Population": 91368
   },
   {
     "Country": "Switzerland",
-    "City": "luzern",
+    "City": "Luzern",
     "Population": 57269
   },
   {
     "Country": "Switzerland",
-    "City": "biel",
+    "City": "Biel",
     "Population": 49675
   },
   {
     "Country": "Switzerland",
-    "City": "thun",
+    "City": "Thun",
     "Population": 41539
   },
   {
     "Country": "Switzerland",
-    "City": "la chaux-de-fonds",
+    "City": "La Chaux-De-Fonds",
     "Population": 36971
   },
   {
     "Country": "Switzerland",
-    "City": "koniz",
+    "City": "Koniz",
     "Population": 35961
   },
   {
     "Country": "Switzerland",
-    "City": "schaffhausen",
+    "City": "Schaffhausen",
     "Population": 34445
   },
   {
     "Country": "Switzerland",
-    "City": "fribourg",
+    "City": "Fribourg",
     "Population": 33806
   },
   {
     "Country": "Switzerland",
-    "City": "chur",
+    "City": "Chur",
     "Population": 32874
   },
   {
     "Country": "Switzerland",
-    "City": "neuchatel",
+    "City": "Neuchatel",
     "Population": 31216
   },
   {
     "Country": "Switzerland",
-    "City": "vernier",
+    "City": "Vernier",
     "Population": 29767
   },
   {
     "Country": "Switzerland",
-    "City": "uster",
+    "City": "Uster",
     "Population": 29583
   },
   {
     "Country": "Switzerland",
-    "City": "sion",
+    "City": "Sion",
     "Population": 28246
   },
   {
     "Country": "Switzerland",
-    "City": "emmen",
+    "City": "Emmen",
     "Population": 27290
   },
   {
     "Country": "Switzerland",
-    "City": "lugano",
+    "City": "Lugano",
     "Population": 26327
   },
   {
     "Country": "Switzerland",
-    "City": "kriens",
+    "City": "Kriens",
     "Population": 26117
   },
   {
     "Country": "Switzerland",
-    "City": "zug",
+    "City": "Zug",
     "Population": 24197
   },
   {
     "Country": "Switzerland",
-    "City": "yverdon",
+    "City": "Yverdon",
     "Population": 23756
   },
   {
     "Country": "Switzerland",
-    "City": "montreux",
+    "City": "Montreux",
     "Population": 23703
   },
   {
     "Country": "Switzerland",
-    "City": "dubendorf",
+    "City": "Dubendorf",
     "Population": 23051
   },
   {
     "Country": "Switzerland",
-    "City": "frauenfeld",
+    "City": "Frauenfeld",
     "Population": 22639
   },
   {
     "Country": "Switzerland",
-    "City": "dietikon",
+    "City": "Dietikon",
     "Population": 22443
   },
   {
     "Country": "Switzerland",
-    "City": "baar",
+    "City": "Baar",
     "Population": 20752
   },
   {
     "Country": "Switzerland",
-    "City": "meyrin",
+    "City": "Meyrin",
     "Population": 19691
   },
   {
     "Country": "Switzerland",
-    "City": "carouge",
+    "City": "Carouge",
     "Population": 19688
   },
   {
     "Country": "Switzerland",
-    "City": "wadenswil",
+    "City": "Wadenswil",
     "Population": 19473
   },
   {
     "Country": "Switzerland",
-    "City": "wetzikon",
+    "City": "Wetzikon",
     "Population": 19377
   },
   {
     "Country": "Switzerland",
-    "City": "allschwil",
+    "City": "Allschwil",
     "Population": 18745
   },
   {
     "Country": "Switzerland",
-    "City": "wettingen",
+    "City": "Wettingen",
     "Population": 18509
   },
   {
     "Country": "Switzerland",
-    "City": "kloten",
+    "City": "Kloten",
     "Population": 18141
   },
   {
     "Country": "Switzerland",
-    "City": "horgen",
+    "City": "Horgen",
     "Population": 18055
   },
   {
     "Country": "Switzerland",
-    "City": "jona",
+    "City": "Jona",
     "Population": 17806
   },
   {
     "Country": "Switzerland",
-    "City": "renens",
+    "City": "Renens",
     "Population": 17530
   },
   {
     "Country": "Switzerland",
-    "City": "gossau",
+    "City": "Gossau",
     "Population": 17268
   },
   {
     "Country": "Switzerland",
-    "City": "wil",
+    "City": "Wil",
     "Population": 17234
   },
   {
     "Country": "Switzerland",
-    "City": "kreuzlingen",
+    "City": "Kreuzlingen",
     "Population": 17233
   },
   {
     "Country": "Switzerland",
-    "City": "nyon",
+    "City": "Nyon",
     "Population": 17071
   },
   {
     "Country": "Switzerland",
-    "City": "bellinzona",
+    "City": "Bellinzona",
     "Population": 17006
   },
   {
     "Country": "Switzerland",
-    "City": "onex",
+    "City": "Onex",
     "Population": 16796
   },
   {
     "Country": "Switzerland",
-    "City": "baden",
+    "City": "Baden",
     "Population": 16659
   },
   {
     "Country": "Switzerland",
-    "City": "muttenz",
+    "City": "Muttenz",
     "Population": 16646
   },
   {
     "Country": "Switzerland",
-    "City": "pully",
+    "City": "Pully",
     "Population": 16640
   },
   {
     "Country": "Switzerland",
-    "City": "olten",
+    "City": "Olten",
     "Population": 16555
   },
   {
     "Country": "Switzerland",
-    "City": "littau",
+    "City": "Littau",
     "Population": 16403
   },
   {
     "Country": "Switzerland",
-    "City": "thalwil",
+    "City": "Thalwil",
     "Population": 16389
   },
   {
     "Country": "Belgium",
-    "City": "brussels",
+    "City": "Brussels",
     "Population": 1019022
   },
   {
     "Country": "Belgium",
-    "City": "antwerp",
+    "City": "Antwerp",
     "Population": 459805
   },
   {
     "Country": "Belgium",
-    "City": "gent",
+    "City": "Gent",
     "Population": 231493
   },
   {
     "Country": "Belgium",
-    "City": "charleroi",
+    "City": "Charleroi",
     "Population": 200132
   },
   {
     "Country": "Belgium",
-    "City": "liege",
+    "City": "Liege",
     "Population": 182597
   },
   {
     "Country": "Belgium",
-    "City": "brugge",
+    "City": "Brugge",
     "Population": 116709
   },
   {
     "Country": "Belgium",
-    "City": "namur",
+    "City": "Namur",
     "Population": 106284
   },
   {
     "Country": "Belgium",
-    "City": "leuven",
+    "City": "Leuven",
     "Population": 92892
   },
   {
     "Country": "Belgium",
-    "City": "mons",
+    "City": "Mons",
     "Population": 91277
   },
   {
     "Country": "Belgium",
-    "City": "aalst",
+    "City": "Aalst",
     "Population": 77534
   },
   {
     "Country": "Belgium",
-    "City": "mechelen",
+    "City": "Mechelen",
     "Population": 77531
   },
   {
     "Country": "Belgium",
-    "City": "la louviere",
+    "City": "La Louviere",
     "Population": 76668
   },
   {
     "Country": "Belgium",
-    "City": "kortrijk",
+    "City": "Kortrijk",
     "Population": 73879
   },
   {
     "Country": "Belgium",
-    "City": "hasselt",
+    "City": "Hasselt",
     "Population": 69222
   },
   {
     "Country": "Belgium",
-    "City": "ostend",
+    "City": "Ostend",
     "Population": 69011
   },
   {
     "Country": "Belgium",
-    "City": "sint-niklaas",
+    "City": "Sint-Niklaas",
     "Population": 69010
   },
   {
     "Country": "Belgium",
-    "City": "tournai",
+    "City": "Tournai",
     "Population": 67720
   },
   {
     "Country": "Belgium",
-    "City": "genk",
+    "City": "Genk",
     "Population": 63666
   },
   {
     "Country": "Belgium",
-    "City": "seraing",
+    "City": "Seraing",
     "Population": 60737
   },
   {
     "Country": "Belgium",
-    "City": "roeselare",
+    "City": "Roeselare",
     "Population": 56016
   },
   {
     "Country": "Belgium",
-    "City": "verviers",
+    "City": "Verviers",
     "Population": 52824
   },
   {
     "Country": "Belgium",
-    "City": "mouscron",
+    "City": "Mouscron",
     "Population": 52069
   },
   {
     "Country": "Belgium",
-    "City": "beveren",
+    "City": "Beveren",
     "Population": 45179
   },
   {
     "Country": "Belgium",
-    "City": "dendermonde",
+    "City": "Dendermonde",
     "Population": 43055
   },
   {
     "Country": "Belgium",
-    "City": "beringen",
+    "City": "Beringen",
     "Population": 40930
   },
   {
     "Country": "Belgium",
-    "City": "turnhout",
+    "City": "Turnhout",
     "Population": 39654
   },
   {
     "Country": "Belgium",
-    "City": "dilbeek",
+    "City": "Dilbeek",
     "Population": 39482
   },
   {
     "Country": "Belgium",
-    "City": "heist-op-den-berg",
+    "City": "Heist-Op-Den-Berg",
     "Population": 37873
   },
   {
     "Country": "Belgium",
-    "City": "sint-truiden",
+    "City": "Sint-Truiden",
     "Population": 37859
   },
   {
     "Country": "Belgium",
-    "City": "lokeren",
+    "City": "Lokeren",
     "Population": 37567
   },
   {
     "Country": "Belgium",
-    "City": "brasschaat",
+    "City": "Brasschaat",
     "Population": 37040
   },
   {
     "Country": "Belgium",
-    "City": "vilvoorde",
+    "City": "Vilvoorde",
     "Population": 36955
   },
   {
     "Country": "Belgium",
-    "City": "herstal",
+    "City": "Herstal",
     "Population": 36503
   },
   {
     "Country": "Belgium",
-    "City": "maasmechelen",
+    "City": "Maasmechelen",
     "Population": 36251
   },
   {
     "Country": "Belgium",
-    "City": "waregem",
+    "City": "Waregem",
     "Population": 35896
   },
   {
     "Country": "Belgium",
-    "City": "chatelet",
+    "City": "Chatelet",
     "Population": 35238
   },
   {
     "Country": "Belgium",
-    "City": "ieper",
+    "City": "Ieper",
     "Population": 35089
   },
   {
     "Country": "Belgium",
-    "City": "ninove",
+    "City": "Ninove",
     "Population": 34795
   },
   {
     "Country": "Belgium",
-    "City": "geel",
+    "City": "Geel",
     "Population": 34697
   },
   {
     "Country": "Belgium",
-    "City": "halle",
+    "City": "Halle",
     "Population": 34479
   },
   {
     "Country": "Belgium",
-    "City": "knokke-heist",
+    "City": "Knokke-Heist",
     "Population": 33781
   },
   {
     "Country": "Belgium",
-    "City": "schoten",
+    "City": "Schoten",
     "Population": 33622
   },
   {
     "Country": "Belgium",
-    "City": "grimbergen",
+    "City": "Grimbergen",
     "Population": 33561
   },
   {
     "Country": "Belgium",
-    "City": "mol",
+    "City": "Mol",
     "Population": 32659
   },
   {
     "Country": "Belgium",
-    "City": "wavre",
+    "City": "Wavre",
     "Population": 32112
   },
   {
     "Country": "Belgium",
-    "City": "binche",
+    "City": "Binche",
     "Population": 32030
   },
   {
     "Country": "Belgium",
-    "City": "lommel",
+    "City": "Lommel",
     "Population": 31993
   },
   {
     "Country": "Belgium",
-    "City": "menen",
+    "City": "Menen",
     "Population": 31916
   },
   {
     "Country": "Belgium",
-    "City": "tienen",
+    "City": "Tienen",
     "Population": 31743
   },
   {
     "Country": "Belgium",
-    "City": "evergem",
+    "City": "Evergem",
     "Population": 31615
   },
   {
     "Country": "Spain",
-    "City": "madrid",
+    "City": "Madrid",
     "Population": 3102644
   },
   {
     "Country": "Spain",
-    "City": "barcelona",
+    "City": "Barcelona",
     "Population": 1570378
   },
   {
     "Country": "Spain",
-    "City": "valencia",
+    "City": "Valencia",
     "Population": 769897
   },
   {
     "Country": "Spain",
-    "City": "sevilla",
+    "City": "Sevilla",
     "Population": 686647
   },
   {
     "Country": "Spain",
-    "City": "zaragoza",
+    "City": "Zaragoza",
     "Population": 635509
   },
   {
     "Country": "Spain",
-    "City": "malaga",
+    "City": "Malaga",
     "Population": 557875
   },
   {
     "Country": "Spain",
-    "City": "murcia",
+    "City": "Murcia",
     "Population": 410364
   },
   {
     "Country": "Spain",
-    "City": "palma",
+    "City": "Palma",
     "Population": 378884
   },
   {
     "Country": "Spain",
-    "City": "las palmas",
+    "City": "Las Palmas",
     "Population": 365418
   },
   {
     "Country": "Spain",
-    "City": "bilbao",
+    "City": "Bilbao",
     "Population": 349270
   },
   {
     "Country": "Spain",
-    "City": "valladolid",
+    "City": "Valladolid",
     "Population": 315859
   },
   {
     "Country": "Spain",
-    "City": "cordoba",
+    "City": "Cordoba",
     "Population": 311186
   },
   {
     "Country": "Spain",
-    "City": "vigo",
+    "City": "Vigo",
     "Population": 286585
   },
   {
     "Country": "Spain",
-    "City": "gijon",
+    "City": "Gijon",
     "Population": 262573
   },
   {
     "Country": "Spain",
-    "City": "granada",
+    "City": "Granada",
     "Population": 248942
   },
   {
     "Country": "Spain",
-    "City": "a coruna",
+    "City": "A Coruna",
     "Population": 236010
   },
   {
     "Country": "Spain",
-    "City": "vitoria",
+    "City": "Vitoria",
     "Population": 224774
   },
   {
     "Country": "Spain",
-    "City": "badalona",
+    "City": "Badalona",
     "Population": 222413
   },
   {
     "Country": "Spain",
-    "City": "mostoles",
+    "City": "Mostoles",
     "Population": 212504
   },
   {
     "Country": "Spain",
-    "City": "fuenlabrada",
+    "City": "Fuenlabrada",
     "Population": 202088
   },
   {
     "Country": "Spain",
-    "City": "cartagena",
+    "City": "Cartagena",
     "Population": 201977
   },
   {
     "Country": "Spain",
-    "City": "sabadell",
+    "City": "Sabadell",
     "Population": 198589
   },
   {
     "Country": "Spain",
-    "City": "oviedo",
+    "City": "Oviedo",
     "Population": 198250
   },
   {
     "Country": "Spain",
-    "City": "alcala de henares",
+    "City": "Alcala De Henares",
     "Population": 195152
   },
   {
     "Country": "Spain",
-    "City": "santa cruz de tenerife",
+    "City": "Santa Cruz De Tenerife",
     "Population": 193852
   },
   {
     "Country": "Spain",
-    "City": "leganes",
+    "City": "Leganes",
     "Population": 192000
   },
   {
     "Country": "Spain",
-    "City": "pamplona",
+    "City": "Pamplona",
     "Population": 191549
   },
   {
     "Country": "Spain",
-    "City": "jerez",
+    "City": "Jerez",
     "Population": 189230
   },
   {
     "Country": "Spain",
-    "City": "terrassa",
+    "City": "Terrassa",
     "Population": 187770
   },
   {
     "Country": "Spain",
-    "City": "santander",
+    "City": "Santander",
     "Population": 185209
   },
   {
     "Country": "Spain",
-    "City": "almeria",
+    "City": "Almeria",
     "Population": 181497
   },
   {
     "Country": "Spain",
-    "City": "alcorcon",
+    "City": "Alcorcon",
     "Population": 169343
   },
   {
     "Country": "Spain",
-    "City": "burgos",
+    "City": "Burgos",
     "Population": 168319
   },
   {
     "Country": "Spain",
-    "City": "getafe",
+    "City": "Getafe",
     "Population": 167550
   },
   {
     "Country": "Spain",
-    "City": "salamanca",
+    "City": "Salamanca",
     "Population": 155175
   },
   {
     "Country": "Spain",
-    "City": "albacete",
+    "City": "Albacete",
     "Population": 155083
   },
   {
     "Country": "Spain",
-    "City": "huelva",
+    "City": "Huelva",
     "Population": 145901
   },
   {
     "Country": "Spain",
-    "City": "logrono",
+    "City": "Logrono",
     "Population": 142103
   },
   {
     "Country": "Spain",
-    "City": "cadiz",
+    "City": "Cadiz",
     "Population": 137698
   },
   {
     "Country": "Spain",
-    "City": "badajoz",
+    "City": "Badajoz",
     "Population": 133042
   },
   {
     "Country": "Spain",
-    "City": "tarragona",
+    "City": "Tarragona",
     "Population": 128391
   },
   {
     "Country": "Spain",
-    "City": "leon",
+    "City": "Leon",
     "Population": 127480
   },
   {
     "Country": "Spain",
-    "City": "lleida",
+    "City": "Lleida",
     "Population": 119320
   },
   {
     "Country": "Spain",
-    "City": "jaen",
+    "City": "Jaen",
     "Population": 116291
   },
   {
     "Country": "Spain",
-    "City": "marbella",
+    "City": "Marbella",
     "Population": 115484
   },
   {
     "Country": "Spain",
-    "City": "mataro",
+    "City": "Mataro",
     "Population": 114923
   },
   {
     "Country": "Spain",
-    "City": "torrejon de ardoz",
+    "City": "Torrejon De Ardoz",
     "Population": 111998
   },
   {
     "Country": "Spain",
-    "City": "algeciras",
+    "City": "Algeciras",
     "Population": 104766
   },
   {
     "Country": "Spain",
-    "City": "dos hermanas",
+    "City": "Dos Hermanas",
     "Population": 104666
   },
   {
     "Country": "Spain",
-    "City": "alcobendas",
+    "City": "Alcobendas",
     "Population": 101860
   },
   {
     "Country": "Italy",
-    "City": "rome",
+    "City": "Rome",
     "Population": 2643736
   },
   {
     "Country": "Italy",
-    "City": "milan",
+    "City": "Milan",
     "Population": 1156903
   },
   {
     "Country": "Italy",
-    "City": "naples",
+    "City": "Naples",
     "Population": 981284
   },
   {
     "Country": "Italy",
-    "City": "turin",
+    "City": "Turin",
     "Population": 846489
   },
   {
     "Country": "Italy",
-    "City": "palermo",
+    "City": "Palermo",
     "Population": 669582
   },
   {
     "Country": "Italy",
-    "City": "genoa",
+    "City": "Genoa",
     "Population": 585815
   },
   {
     "Country": "Italy",
-    "City": "bologna",
+    "City": "Bologna",
     "Population": 367168
   },
   {
     "Country": "Italy",
-    "City": "florence",
+    "City": "Florence",
     "Population": 347194
   },
   {
     "Country": "Italy",
-    "City": "catania",
+    "City": "Catania",
     "Population": 307331
   },
   {
     "Country": "Italy",
-    "City": "bari",
+    "City": "Bari",
     "Population": 303049
   },
   {
     "Country": "Italy",
-    "City": "venice",
+    "City": "Venice",
     "Population": 259126
   },
   {
     "Country": "Italy",
-    "City": "verona",
+    "City": "Verona",
     "Population": 247082
   },
   {
     "Country": "Italy",
-    "City": "messina",
+    "City": "Messina",
     "Population": 237956
   },
   {
     "Country": "Italy",
-    "City": "padova",
+    "City": "Padova",
     "Population": 205247
   },
   {
     "Country": "Italy",
-    "City": "trieste",
+    "City": "Trieste",
     "Population": 204379
   },
   {
     "Country": "Italy",
-    "City": "brescia",
+    "City": "Brescia",
     "Population": 193713
   },
   {
     "Country": "Italy",
-    "City": "taranto",
+    "City": "Taranto",
     "Population": 191364
   },
   {
     "Country": "Italy",
-    "City": "reggio di calabria",
+    "City": "Reggio Di Calabria",
     "Population": 181990
   },
   {
     "Country": "Italy",
-    "City": "modena",
+    "City": "Modena",
     "Population": 180641
   },
   {
     "Country": "Italy",
-    "City": "prato",
+    "City": "Prato",
     "Population": 178915
   },
   {
     "Country": "Italy",
-    "City": "cagliari",
+    "City": "Cagliari",
     "Population": 157343
   },
   {
     "Country": "Italy",
-    "City": "perugia",
+    "City": "Perugia",
     "Population": 157077
   },
   {
     "Country": "Italy",
-    "City": "parma",
+    "City": "Parma",
     "Population": 155693
   },
   {
     "Country": "Italy",
-    "City": "leghorn",
+    "City": "Leghorn",
     "Population": 146762
   },
   {
     "Country": "Italy",
-    "City": "salerno",
+    "City": "Salerno",
     "Population": 144147
   },
   {
     "Country": "Italy",
-    "City": "foggia",
+    "City": "Foggia",
     "Population": 143826
   },
   {
     "Country": "Italy",
-    "City": "ravenna",
+    "City": "Ravenna",
     "Population": 143396
   },
   {
     "Country": "Italy",
-    "City": "rimini",
+    "City": "Rimini",
     "Population": 132031
   },
   {
     "Country": "Italy",
-    "City": "ferrara",
+    "City": "Ferrara",
     "Population": 131252
   },
   {
     "Country": "Italy",
-    "City": "syracuse",
+    "City": "Syracuse",
     "Population": 127666
   },
   {
     "Country": "Italy",
-    "City": "latina",
+    "City": "Latina",
     "Population": 124330
   },
   {
     "Country": "Italy",
-    "City": "monza",
+    "City": "Monza",
     "Population": 120857
   },
   {
     "Country": "Italy",
-    "City": "sassari",
+    "City": "Sassari",
     "Population": 119187
   },
   {
     "Country": "Italy",
-    "City": "pescara",
+    "City": "Pescara",
     "Population": 118136
   },
   {
     "Country": "Italy",
-    "City": "bergamo",
+    "City": "Bergamo",
     "Population": 113603
   },
   {
     "Country": "Italy",
-    "City": "forli",
+    "City": "Forli",
     "Population": 111574
   },
   {
     "Country": "Italy",
-    "City": "vicenza",
+    "City": "Vicenza",
     "Population": 108636
   },
   {
     "Country": "Italy",
-    "City": "terni",
+    "City": "Terni",
     "Population": 108006
   },
   {
     "Country": "Italy",
-    "City": "giugliano in campania",
+    "City": "Giugliano In Campania",
     "Population": 107680
   },
   {
     "Country": "Italy",
-    "City": "trento",
+    "City": "Trento",
     "Population": 106703
   },
   {
     "Country": "Italy",
-    "City": "novara",
+    "City": "Novara",
     "Population": 105903
   },
   {
     "Country": "Italy",
-    "City": "ancona",
+    "City": "Ancona",
     "Population": 100982
   },
   {
     "Country": "Italy",
-    "City": "piacenza",
+    "City": "Piacenza",
     "Population": 95453
   },
   {
     "Country": "Italy",
-    "City": "arezzo",
+    "City": "Arezzo",
     "Population": 95233
   },
   {
     "Country": "Italy",
-    "City": "udine",
+    "City": "Udine",
     "Population": 94597
   },
   {
     "Country": "Italy",
-    "City": "andria",
+    "City": "Andria",
     "Population": 93819
   },
   {
     "Country": "Italy",
-    "City": "barletta",
+    "City": "Barletta",
     "Population": 92650
   },
   {
     "Country": "Italy",
-    "City": "brindisi",
+    "City": "Brindisi",
     "Population": 92457
   },
   {
     "Country": "Italy",
-    "City": "cesena",
+    "City": "Cesena",
     "Population": 92280
   },
   {
     "Country": "Italy",
-    "City": "pesaro",
+    "City": "",
     "Population": 91817
   }
 ]
