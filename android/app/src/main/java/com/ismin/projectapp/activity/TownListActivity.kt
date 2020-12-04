@@ -129,7 +129,7 @@ class TownListActivity : AppCompatActivity() {
         tabLayout.setupWithViewPager(viewpager)
     }
 
-    //Search based On City name
+    //Search based On City name -> Not yet functional !!!
     fun displaySearch(string: String) {
 
 
@@ -155,11 +155,11 @@ class TownListActivity : AppCompatActivity() {
 
         irequests.removeTown(town.City).enqueue(object : Callback<String> {
             override fun onFailure(call: Call<String>, t: Throwable) {
-                Toast.makeText(
+                /**Toast.makeText(
                         applicationContext,
                         "Network error ${t.localizedMessage}",
                         Toast.LENGTH_LONG
-                ).show()
+                ).show()**/
             }
 
             @RequiresApi(Build.VERSION_CODES.N)

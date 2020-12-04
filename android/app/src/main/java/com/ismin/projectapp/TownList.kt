@@ -30,8 +30,8 @@ class TownList : Serializable {
         return this.storage.size
     }
 
-    fun exist(town: Town): Boolean {
-        return this.storage.containsValue(town)
+    fun exist(town: Town, list: ArrayList<Town>): Boolean {
+        return list.contains(town)
     }
 
     fun search(City: String): ArrayList<Town> {

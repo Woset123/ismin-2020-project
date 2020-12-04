@@ -11,19 +11,19 @@ interface IRequests {
     @GET("towns")
     fun allTowns() : Call<ArrayList<Town>>
 
-    @GET("favorite")
+    @GET("/towns/favoris")
     fun allFavorites() : Call<ArrayList<Town>>
 
     @POST("towns")
     fun createTown(@Body() town: Town) : Call<Town>
 
-    @POST("favorite")
+    @POST("towns/favoris")
     fun addToFavorite(@Body() town: Town) : Call<Town>
 
     @DELETE("towns/{City}")
     fun removeTown(@Path("City") City: String ) : Call<String>
 
-    @DELETE("favorite/{City}")
+    @DELETE("/towns/favoris/{City}")
     fun removeFromFavorite(@Path("City") City: String ) : Call<String>
 
 

@@ -25,6 +25,7 @@ class FocusTownActivity : AppCompatActivity() {
     private lateinit var irequests: IRequests
 
     val favTown = TownList()
+    lateinit var town: Town
     private lateinit var City: String
     private lateinit var Country: String
     private lateinit var Population: String
@@ -51,6 +52,8 @@ class FocusTownActivity : AppCompatActivity() {
         seeCountry.text = Country
         seePopulation.text = Population
 
+        btn_fav.setBackgroundResource(R.drawable.ic_baseline_favorite_shadow)
+
         //Retrofit
         val retrofit = Retrofit.Builder()
             .addConverterFactory(GsonConverterFactory.create())
@@ -59,6 +62,7 @@ class FocusTownActivity : AppCompatActivity() {
 
         irequests = retrofit.create(IRequests::class.java)
 
+        town = Town(City, Country, Population)
 
         irequests.allFavorites().enqueue(object : Callback<ArrayList<Town>> {
             override fun onResponse(
@@ -68,6 +72,9 @@ class FocusTownActivity : AppCompatActivity() {
                 val alltowns = response.body()
                 alltowns?.forEach{
                     favTown.addTown(it)
+                    if (it==town) {
+                        btn_fav.setBackgroundResource(R.drawable.ic_baseline_favorite_red)
+                    }
                 }
             }
 
@@ -86,21 +93,21 @@ class FocusTownActivity : AppCompatActivity() {
 
     }
 
+
     fun addToFavorites(view : View) {
 
-        var town = Town(City, Country, Population)
-
-        if (favTown.exist(town)) {
+        //Already Favorite
+        if (favTown.exist(town, favTown.getAllTowns()))  {
             btn_fav.setBackgroundResource(R.drawable.ic_baseline_favorite_shadow)
             Toast.makeText(this, "Removed from Favorites", Toast.LENGTH_LONG).show()
             //Remove from Favorites
             irequests.removeFromFavorite(town.City).enqueue(object : Callback<String> {
                 override fun onFailure(call: Call<String>, t: Throwable) {
-                    Toast.makeText(
+                    /**Toast.makeText(
                         applicationContext,
                         "Network error ${t.localizedMessage}",
                         Toast.LENGTH_LONG
-                    ).show()
+                    ).show()**/
                 }
 
                 @RequiresApi(Build.VERSION_CODES.N)
@@ -112,6 +119,7 @@ class FocusTownActivity : AppCompatActivity() {
             })
 
         }
+        // Add to Favorite
         else {
             btn_fav.setBackgroundResource(R.drawable.ic_baseline_favorite_red)
             Toast.makeText(this, "Added to Favorites", Toast.LENGTH_LONG).show()
