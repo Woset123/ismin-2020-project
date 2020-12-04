@@ -48,7 +48,7 @@ export class AppController {
     return this.appService.getTown(City);
   }
 
-  @Get('/:City/favoris')
+  @Get('/favoris/:City')
   getfavTown(@Param('City') City): Town {
     return this.appService.getfavTown(City);
   }
@@ -58,7 +58,7 @@ export class AppController {
     return this.appService.getTotalNumberOfTowns();
   }
 
-  @Get('/:City/favoris')
+  @Get('/favoris/:City')
   getTotalNumberOffavTowns(): number {
     return this.appService.getTotalNumberOffavTowns();
   }
@@ -67,7 +67,7 @@ export class AppController {
   deleteTown(@Param('City') City): void {
     this.appService.deleteTown(City);
   }
-  @Delete('/:City/favoris')
+  @Delete('/favoris/:City')
   deletefavTown(@Param('City') City): void {
     this.appService.deletefavTown(City);
   }
