@@ -21,7 +21,7 @@ export class AppController {
     }
     return this.appService.getAllTowns();
   }
-  @Get('/:favoris')
+  @Get('/favoris')
   getfavTowns(@Query('Country') Country: string): Town[] {
     if (Country) {
       return this.appService.getfavTownsOf(Country);
@@ -36,7 +36,7 @@ export class AppController {
     return this.appService.getTown(newTown.City);
   }
 
-  @Post('/:favoris')
+  @Post('/favoris')
   createfavTown(@Body() newTown: Town): Town {
     this.appService.addfavTown(newTown);
 
