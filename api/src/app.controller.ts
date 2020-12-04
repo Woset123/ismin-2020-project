@@ -66,6 +66,7 @@ export class AppController {
   @Delete('/:City')
   deleteTown(@Param('City') City): void {
     this.appService.deleteTown(City);
+    this.appService.deletefavTown(City);
   }
   @Delete('/favoris/:City')
   deletefavTown(@Param('City') City): void {
