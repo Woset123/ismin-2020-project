@@ -89,7 +89,7 @@ To carry out this development, here are the differents files :
 - Add a new Town :heavy_check_mark:
   - On the tab "Towns" click on the floating button "+"
 - Remove an existing Town :heavy_check_mark:
-  - Long click on the item to remove it. You can only remove an item in the tab Towns !
+  - Long click on the item to remove it. You can only remove an item in the tab Towns ! However if a remove a Town saved also as a favorite, this Town will also be removed from the favorites as well
 - Favorite Towns can be handled :heavy_check_mark:
   - Short click on an item (no matter the tab) to display a new view where you can click on the heart to add/remove to/from the favorites
 - A non elegant but functional refresh !
