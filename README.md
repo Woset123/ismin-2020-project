@@ -89,7 +89,10 @@ To carry out this development, here are the differents files :
 - Add a new Town :heavy_check_mark:
 - Remove an existing Town :heavy_check_mark:
 - Favorite Towns can be handled :heavy_check_mark:
-- A lot lot lot time of researches :relieved:
+- A lot lot lot of time of researches :relieved:
 
 ### Issues
+
+- I tried to implement a SearchView widget but I cannot find an alternative way of using an ArrayAdapter.
+- Difficulty to "refresh" my tab fragments using the "MyPagerAdapter" -> alternative was to restart the activity (to reload the data) to refresh but not very elegant...
 
