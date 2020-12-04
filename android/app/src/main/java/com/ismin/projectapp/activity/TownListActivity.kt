@@ -153,7 +153,7 @@ class TownListActivity : AppCompatActivity() {
 
         Toast.makeText(this,"Removed !", Toast.LENGTH_LONG).show()
 
-        /**irequests.removeTown(town.City).enqueue(object : Callback<String> {
+        irequests.removeTown(town.City).enqueue(object : Callback<String> {
             override fun onFailure(call: Call<String>, t: Throwable) {
                 Toast.makeText(
                         applicationContext,
@@ -168,7 +168,7 @@ class TownListActivity : AppCompatActivity() {
                 favTown.removeTown(response.body()!!)
             }
 
-        })**/
+        })
 
     }
 }
