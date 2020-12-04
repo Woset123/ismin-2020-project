@@ -84,11 +84,11 @@ To carry out this development, here are the differents files :
 
 ### Features
 
-- Splash Screen :ok_hand:
-- Overview of the 20 most populated cities of some European countries :ok_hand:
-- Add a new Town :ok_hand:
-- Remove an existing Town :ok_hand:
-- Favorite Towns can be handled :ok_hand:
+- Splash Screen :heavy_check_mark:
+- Overview of the 20 most populated cities of some European countries :heavy_check_mark:
+- Add a new Town :heavy_check_mark:
+- Remove an existing Town :heavy_check_mark:
+- Favorite Towns can be handled :heavy_check_mark:
 - A lot lot lot time of researches :relieved:
 
 ### Issues
