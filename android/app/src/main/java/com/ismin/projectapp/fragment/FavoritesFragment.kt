@@ -6,6 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -69,7 +70,6 @@ class FavoritesFragment(townsList: TownList) : Fragment(), TownAdapter.OnItemCli
     }
 
     override fun onItemLongClick(City: String, Country: String, Population: String) {
-        //Do Nothing
-        TODO("Not yet implemented")
+            Toast.makeText(context, "Hi There !", Toast.LENGTH_LONG ).show()
     }
 }
