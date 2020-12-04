@@ -1,6 +1,8 @@
 package com.ismin.projectapp.adapter
 
 import android.util.Log
+import android.view.View
+import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
@@ -37,4 +39,5 @@ class MyPagerAdapter(fm: FragmentManager, fragment: ArrayList<Town>, favorite: T
             else -> "Favorites"
         }
     }
+
 }

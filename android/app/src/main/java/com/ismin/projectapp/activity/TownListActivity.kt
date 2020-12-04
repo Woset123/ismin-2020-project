@@ -8,6 +8,7 @@ import android.os.Bundle
 import android.util.Log
 import android.view.View
 import android.widget.Button
+import android.widget.SearchView
 import android.widget.Toast
 import androidx.annotation.RequiresApi
 import androidx.fragment.app.FragmentTransaction
@@ -88,6 +89,20 @@ class TownListActivity : AppCompatActivity() {
             }
         })
 
+        search.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
+            override fun onQueryTextSubmit(query: String?): Boolean {
+                if (query != null) {
+                    displaySearch(query)
+                }
+                return false
+            }
+
+            override fun onQueryTextChange(newText: String?): Boolean {
+                return false
+            }
+
+
+        })
 
 
     }
@@ -114,11 +129,23 @@ class TownListActivity : AppCompatActivity() {
         tabLayout.setupWithViewPager(viewpager)
     }
 
+    //Search based On City name
+    fun displaySearch(string: String) {
+
+
+        Log.v("123","Search")
+        fragmentAdapter = MyPagerAdapter(supportFragmentManager, townlist.search(string), favTown)
+        viewpager.adapter = fragmentAdapter
+        tabLayout.setupWithViewPager(viewpager)
+        fragmentAdapter.notifyDataSetChanged()
+
+    }
+
     fun refresh(view: View) {
-        displayList()
-        Toast.makeText(this,"Refreshed !", Toast.LENGTH_LONG).show()
-        toolbar.setTitle("Population Cities")
-        setSupportActionBar(toolbar)
+
+        finish()
+        startActivity(intent)
+
     }
 
 

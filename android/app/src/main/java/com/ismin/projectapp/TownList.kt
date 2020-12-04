@@ -34,6 +34,11 @@ class TownList : Serializable {
         return this.storage.containsValue(town)
     }
 
+    fun search(City: String): ArrayList<Town> {
+        val filter = this.storage.filterValues { it.City == City }
+        return ArrayList(filter.values)
+    }
+
     @RequiresApi(Build.VERSION_CODES.N)
     fun removeTown(city: String) {
         for ((key, value) in storage) {

@@ -26,6 +26,13 @@
             app:titleTextColor="#ffffff"/>
 
 
+        <SearchView
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:searchHintIcon="@drawable/ic_baseline_search_24"
+            android:searchIcon="@drawable/ic_baseline_search_24" />
+
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/tabLayout"
             android:layout_width="match_parent"
