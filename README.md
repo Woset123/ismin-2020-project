@@ -46,6 +46,34 @@ This project shows the top 20 most populated Towns in these countries :
 
 ### Layout
 
+To carry out this development, here are the differents files :
+
+#### Activities
+
+- Intro : launcher activity
+- MainActivity : shows a webview relative to most populated towns in Europe
+- TownListActivity : displays all the towns from the database within two tabs
+- CreateTownActivty : displays view to create a new town
+- FocusTownActivity : displays the town view when click on its cardview on the list
+
+#### Fragments
+
+- TownListFragment : First tab of TownListActivity : displays non-favorite towns
+- FavoritesFragment : Second tab of TownListActivity : displays favorite towns
+
+#### Adapters
+
+- TownAdapter : handles the list of the Towns
+- MyPagerAdapter : handles the tabs layout
+
+#### Miscellaneous
+
+- Town : Town data class (City, Country, Population)
+- TownList : HashMap of Towns
+- TownViewHolder : handles towns view
+- IRequests : interface to handle requests to CleverCloud using Retrofit
+
+
 ### Features
 
 ### Issues
