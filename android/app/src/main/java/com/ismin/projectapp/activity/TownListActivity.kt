@@ -170,5 +170,8 @@ class TownListActivity : AppCompatActivity() {
 
         })
 
+        finish()
+        startActivity(intent)
+
     }
 }
